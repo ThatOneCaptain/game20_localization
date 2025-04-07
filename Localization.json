@@ -86,7 +86,7 @@
     "Ability.UnlockDescription.DNAの瑕.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[[Increase power]]",
     },
     "Ability.DNAの瑕.3":
     {
@@ -101,7 +101,7 @@
     "Ability.UnlockDescription.DNAの瑕.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[[Increase power]]",
     },
     "Ability.ご先祖様":
     {
@@ -131,7 +131,7 @@
     "Ability.Description.ご先祖様が見ているぞ":
     {
         "jpn":"行動を消費しない",
-        "eng":"This ability costs no actions.",
+        "eng":"[This ability costs no actions.]",
     },
     "Ability.UnlockName.ご先祖様が見ているぞ":
     {
@@ -141,7 +141,7 @@
     "Ability.UnlockDescription.ご先祖様が見ているぞ":
     {
         "jpn":"行動を消費しない",
-        "eng":"This ability costs no actions.",
+        "eng":"[This ability costs no actions.]",
     },
     "Ability.CastNamePrefix.ご先祖様が見ているぞ":
     {
@@ -171,7 +171,7 @@
     "Ability.UnlockDescription.ご先祖様が見ているぞ.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[[Increase power]]",
     },
     "Ability.ご先祖様が見ているぞ.3":
     {
@@ -186,7 +186,7 @@
     "Ability.UnlockDescription.ご先祖様が見ているぞ.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[[Increase power]]",
     },
     "Ability.ちりょう":
     {
@@ -226,22 +226,22 @@
     "Ability.アイテム発見移動":
     {
         "jpn":"アイテム発見移動",
-        "eng":"Detect Treasure",
+        "eng":"Move-Find Item",
     },
     "Ability.Description.アイテム発見移動":
     {
         "jpn":"隠された宝を見つける",
-        "eng":"Reveal hidden items.",
+        "eng":"[Reveal hidden items.]",
     },
     "Ability.UnlockName.アイテム発見移動":
     {
         "jpn":"アイテム発見移動",
-        "eng":"Detect Treasure",
+        "eng":"Move-Find Item",
     },
     "Ability.UnlockDescription.アイテム発見移動":
     {
         "jpn":"隠された宝を見つける",
-        "eng":"Reveal hidden items.",
+        "eng":"[Reveal hidden treasure.]",
     },
     "Ability.アビスノヴァ":
     {
@@ -288,7 +288,7 @@
     "Ability.UnlockDescription.アビスノヴァ.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.アビスノヴァ.3":
     {
@@ -303,7 +303,7 @@
     "Ability.UnlockDescription.アビスノヴァ.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.オトリ":
     {
@@ -313,7 +313,7 @@
     "Ability.Description.オトリ":
     {
         "jpn":"狙われやすくなる",
-        "eng":"Enemies are more likely to attack this unit.",
+        "eng":"[Enemies are more likely to attack this unit.]",
     },
     "Ability.UnlockName.オトリ":
     {
@@ -323,7 +323,7 @@
     "Ability.UnlockDescription.オトリ":
     {
         "jpn":"狙われやすくなる",
-        "eng":"Enemies are more likely to attack this unit.",
+        "eng":"[Enemies are more likely to attack this unit.]",
     },
     "Ability.カウンター":
     {
@@ -333,7 +333,7 @@
     "Ability.Description.カウンター":
     {
         "jpn":"接触攻撃にカウンター",
-        "eng":"Counterattack against melee hits.",
+        "eng":"[Counter against melee hits.]",
     },
     "Ability.UnlockName.カウンター":
     {
@@ -343,7 +343,7 @@
     "Ability.UnlockDescription.カウンター":
     {
         "jpn":"接触攻撃にカウンター",
-        "eng":"Counterattack against melee hits.",
+        "eng":"[Counter against melee hits.]",
     },
     "Ability.CastNamePrefix.カウンター":
     {
@@ -373,7 +373,7 @@
     "Ability.UnlockDescription.カウンター.2":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
+        "eng":"[Activation rate up]",
     },
     "Ability.カウンター.3":
     {
@@ -388,27 +388,27 @@
     "Ability.UnlockDescription.カウンター.3":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
+        "eng":"[Activation rate up]",
     },
     "Ability.カウンターアタックブースト":
     {
         "jpn":"カウンターアタックブースト",
-        "eng":"Vengeance",
+        "eng":"Counter: ATK Boost",
     },
     "Ability.Description.カウンターアタックブースト":
     {
         "jpn":"攻撃を受けたときにたまに攻撃上昇",
-        "eng":"Increase attack damage when hit",
+        "eng":"[Sometimes increase ATK when hit]",
     },
     "Ability.UnlockName.カウンターアタックブースト":
     {
         "jpn":"カウンターアタックブースト",
-        "eng":"Vengeance",
+        "eng":"Counter: ATK Boost",
     },
     "Ability.UnlockDescription.カウンターアタックブースト":
     {
         "jpn":"攻撃を受けたときにたまに攻撃上昇",
-        "eng":"Increase attack damage when hit sometimes",
+        "eng":"[Sometimes increase ATK when hit]",
     },
     "Ability.CastNamePrefix.カウンターアタックブースト":
     {
@@ -418,7 +418,7 @@
     "Ability.CastName.カウンターアタックブースト":
     {
         "jpn":"アタックブースト",
-        "eng":"Vengeance",
+        "eng":"ATK Boost",
     },
     "Ability.SpellText.カウンターアタックブースト":
     {
@@ -428,52 +428,52 @@
     "Ability.カウンターアタックブースト.2":
     {
         "jpn":"カウンターアタックブーストL2",
-        "eng":"Vengeance Lv2",
+        "eng":"Counter: ATK Boost Lv2",
     },
     "Ability.UnlockName.カウンターアタックブースト.2":
     {
         "jpn":"カウンターアタックブーストL2",
-        "eng":"Vengeance Lv2",
+        "eng":"Counter: ATK Boost Lv2",
     },
     "Ability.UnlockDescription.カウンターアタックブースト.2":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
+        "eng":"[Activation rate up]",
     },
     "Ability.カウンターアタックブースト.3":
     {
         "jpn":"カウンターアタックブーストL3",
-        "eng":"Vengeance Lv3",
+        "eng":"Counter: ATK Boost Lv3",
     },
     "Ability.UnlockName.カウンターアタックブースト.3":
     {
         "jpn":"カウンターアタックブーストL3",
-        "eng":"Vengeance Lv3",
+        "eng":"Counter: ATK Boost Lv3",
     },
     "Ability.UnlockDescription.カウンターアタックブースト.3":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
+        "eng":"[Activation rate up]",
     },
     "Ability.カウンターシールド":
     {
         "jpn":"カウンターシールド",
-        "eng":"Counter: Physical Armor",
+        "eng":"Counter: Armor",
     },
     "Ability.Description.カウンターシールド":
     {
         "jpn":"物理攻撃を受けたときにたまに物理耐性アップ",
-        "eng":"Have a chance to gain physical resistance when hit by physical attacks",
+        "eng":"[Sometimes increase physical resistance when hit by a physical attack]",
     },
     "Ability.UnlockName.カウンターシールド":
     {
         "jpn":"カウンターシールド",
-        "eng":"Counter: Physical Armor",
+        "eng":"Counter: Armor",
     },
     "Ability.UnlockDescription.カウンターシールド":
     {
         "jpn":"物理攻撃を受けたときにたまに物理耐性アップ",
-        "eng":"Have a chance to gain physical resistance when hit by physical attacks",
+        "eng":"[Sometimes increase physical resistance when hit by a physical attack]",
     },
     "Ability.CastNamePrefix.カウンターシールド":
     {
@@ -483,7 +483,7 @@
     "Ability.CastName.カウンターシールド":
     {
         "jpn":"シールド",
-        "eng":"Physical Defense",
+        "eng":"Armor",
     },
     "Ability.SpellText.カウンターシールド":
     {
@@ -493,52 +493,52 @@
     "Ability.カウンターシールド.2":
     {
         "jpn":"カウンターシールドL2",
-        "eng":"Physical Armor Lv2",
+        "eng":"Counter: Armor Lv2",
     },
     "Ability.UnlockName.カウンターシールド.2":
     {
         "jpn":"カウンターシールドL2",
-        "eng":"Physical Armor Lv2",
+        "eng":"Counter: Armor Lv2",
     },
     "Ability.UnlockDescription.カウンターシールド.2":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
+        "eng":"[Activation rate up]",
     },
     "Ability.カウンターシールド.3":
     {
         "jpn":"カウンターシールドL3",
-        "eng":"Physical Armor Lv3",
+        "eng":"Counter: Armor Lv3",
     },
     "Ability.UnlockName.カウンターシールド.3":
     {
         "jpn":"カウンターシールドL3",
-        "eng":"Physical Armor Lv3",
+        "eng":"Counter: Armor Lv3",
     },
     "Ability.UnlockDescription.カウンターシールド.3":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
+        "eng":"[Activation rate up]",
     },
     "Ability.カウンタースピードブースト":
     {
         "jpn":"カウンタースピードブースト",
-        "eng":"Competitive Spirit",
+        "eng":"Counter: AGI Boost",
     },
     "Ability.Description.カウンタースピードブースト":
     {
         "jpn":"攻撃を受けたときにたまに敏捷上昇",
-        "eng":"Increase dexterity when hit sometimes",
+        "eng":"[Sometimes increases Agility when hit]",
     },
     "Ability.UnlockName.カウンタースピードブースト":
     {
         "jpn":"カウンタースピードブースト",
-        "eng":"Competitive Spirit",
+        "eng":"Counter: AGI Boost",
     },
     "Ability.UnlockDescription.カウンタースピードブースト":
     {
         "jpn":"攻撃を受けたときにたまに敏捷上昇",
-        "eng":"Increase dexterity when hit sometimes",
+        "eng":"[Sometimes increases Agility when hit]",
     },
     "Ability.CastNamePrefix.カウンタースピードブースト":
     {
@@ -548,7 +548,7 @@
     "Ability.CastName.カウンタースピードブースト":
     {
         "jpn":"スピードブースト",
-        "eng":"Speed Buff",
+        "eng":"Agility Boost",
     },
     "Ability.SpellText.カウンタースピードブースト":
     {
@@ -557,52 +557,52 @@
     "Ability.カウンタースピードブースト.2":
     {
         "jpn":"カウンタースピードブーストL2",
-        "eng":"Competitive Spirit Lv2",
+        "eng":"Counter: AGI Boost Lv2",
     },
     "Ability.UnlockName.カウンタースピードブースト.2":
     {
         "jpn":"カウンタースピードブーストL2",
-        "eng":"Competitive Spirit Lv2",
+        "eng":"Counter: AGI Boost Lv2",
     },
     "Ability.UnlockDescription.カウンタースピードブースト.2":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
+        "eng":"[Activation rate up]",
     },
     "Ability.カウンタースピードブースト.3":
     {
         "jpn":"カウンタースピードブーストL3",
-        "eng":"Competitive Spirit Lv3",
+        "eng":"Counter: AGI Boost Lv3",
     },
     "Ability.UnlockName.カウンタースピードブースト.3":
     {
         "jpn":"カウンタースピードブーストL3",
-        "eng":"Competitive Spirit Lv3",
+        "eng":"Counter: AGI Boost Lv3",
     },
     "Ability.UnlockDescription.カウンタースピードブースト.3":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
+        "eng":"[Activation rate up]",
     },
     "Ability.カウンターナイフ":
     {
         "jpn":"カウンターナイフ",
-        "eng":"Refined Riposte",
+        "eng":"Knife Counter",
     },
     "Ability.Description.カウンターナイフ":
     {
         "jpn":"射撃、接触攻撃にカウンター",
-        "eng":"Counterattack against ranged and melee hits.",
+        "eng":"Counter against shooting and melee hits.",
     },
     "Ability.UnlockName.カウンターナイフ":
     {
         "jpn":"カウンターナイフ",
-        "eng":"Refined Riposte",
+        "eng":"Knife Counter",
     },
     "Ability.UnlockDescription.カウンターナイフ":
     {
         "jpn":"射撃、接触攻撃にカウンター",
-        "eng":"Counterattack against ranged and melee hits.",
+        "eng":"Counter against shooting and melee hits.",
     },
     "Ability.CastNamePrefix.カウンターナイフ":
     {
@@ -612,7 +612,7 @@
     "Ability.CastName.カウンターナイフ":
     {
         "jpn":"カウンターナイフ",
-        "eng":"Refined Riposte",
+        "eng":"Knife Counter",
     },
     "Ability.SpellText.カウンターナイフ":
     {
@@ -622,52 +622,52 @@
     "Ability.カウンターナイフ.2":
     {
         "jpn":"カウンターナイフL2",
-        "eng":"Refined Riposte Lv2",
+        "eng":"Knife Counter Lv2",
     },
     "Ability.UnlockName.カウンターナイフ.2":
     {
         "jpn":"カウンターナイフL2",
-        "eng":"Refined Riposte Lv2",
+        "eng":"Knife Counter Lv2",
     },
     "Ability.UnlockDescription.カウンターナイフ.2":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
+        "eng":"[Activation rate up]",
     },
     "Ability.カウンターナイフ.3":
     {
         "jpn":"カウンターナイフL3",
-        "eng":"Refined Riposte Lv3",
+        "eng":"Knife Counter Lv3",
     },
     "Ability.UnlockName.カウンターナイフ.3":
     {
         "jpn":"カウンターナイフL3",
-        "eng":"Refined Riposte Lv3",
+        "eng":"Knife Counter Lv3",
     },
     "Ability.UnlockDescription.カウンターナイフ.3":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
+        "eng":"[Activation rate up]",
     },
     "Ability.カウンターマジックシールド":
     {
         "jpn":"カウンターマジックシールド",
-        "eng":"Counter: Magical Armor",
+        "eng":"Counter: Shell",
     },
     "Ability.Description.カウンターマジックシールド":
     {
         "jpn":"魔法攻撃を受けたときにたまに魔法耐性アップ",
-        "eng":"Have a chance to gain magical resistance when hit by magical attacks",
+        "eng":"[Sometimes increase Magic Resistance when hit by a magical attack]",
     },
     "Ability.UnlockName.カウンターマジックシールド":
     {
         "jpn":"カウンターマジックシールド",
-        "eng":"Counter: Magical Armor",
+        "eng":"Counter: Shell",
     },
     "Ability.UnlockDescription.カウンターマジックシールド":
     {
         "jpn":"魔法攻撃を受けたときにたまに魔法耐性アップ",
-        "eng":"Have a chance to gain magical resistance when hit by magical attacks",
+        "eng":"[Sometimes increase Magic Resistance when hit by a magical attack]",
     },
     "Ability.CastNamePrefix.カウンターマジックシールド":
     {
@@ -677,7 +677,7 @@
     "Ability.CastName.カウンターマジックシールド":
     {
         "jpn":"マジックシールド",
-        "eng":"Magical Defense",
+        "eng":"Shell",
     },
     "Ability.SpellText.カウンターマジックシールド":
     {
@@ -687,52 +687,52 @@
     "Ability.カウンターマジックシールド.2":
     {
         "jpn":"カウンターマジックシールドL2",
-        "eng":"Counter: Magical Armor Lv2",
+        "eng":"Counter: Shell Lv2",
     },
     "Ability.UnlockName.カウンターマジックシールド.2":
     {
         "jpn":"カウンターマジックシールドL2",
-        "eng":"Counter: Magical Armor Lv2",
+        "eng":"Counter: Shell Lv2",
     },
     "Ability.UnlockDescription.カウンターマジックシールド.2":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
+        "eng":"[Activation rate up]",
     },
     "Ability.カウンターマジックシールド.3":
     {
         "jpn":"カウンターマジックシールドL3",
-        "eng":"Counter: Magical Armor Lv3",
+        "eng":"Counter: Shell Lv3",
     },
     "Ability.UnlockName.カウンターマジックシールド.3":
     {
         "jpn":"カウンターマジックシールドL3",
-        "eng":"Counter: Magical Armor Lv3",
+        "eng":"Counter: Shell Lv3",
     },
     "Ability.UnlockDescription.カウンターマジックシールド.3":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
+        "eng":"[Activation rate up]",
     },
     "Ability.カウンターリジェネレート":
     {
         "jpn":"カウンターリジェネレート",
-        "eng":"Self-recovery",
+        "eng":"Counter: Regen",
     },
     "Ability.Description.カウンターリジェネレート":
     {
         "jpn":"攻撃を受けたときにたまに自動再生付与",
-        "eng":"Have a chance to gain regenration when hit",
+        "eng":"[Sometimes gain regen status when hit]",
     },
     "Ability.UnlockName.カウンターリジェネレート":
     {
         "jpn":"カウンターリジェネレート",
-        "eng":"Self-recovery",
+        "eng":"Counter: Regen",
     },
     "Ability.UnlockDescription.カウンターリジェネレート":
     {
         "jpn":"攻撃を受けたときにたまに自動再生付与",
-        "eng":"Have a chance to gain regenration when hit",
+        "eng":"[Sometimes gain regen status when hit]",
     },
     "Ability.CastNamePrefix.カウンターリジェネレート":
     {
@@ -742,7 +742,7 @@
     "Ability.CastName.カウンターリジェネレート":
     {
         "jpn":"リジェネレート",
-        "eng":"Regeneration",
+        "eng":"Regenerate",
     },
     "Ability.SpellText.カウンターリジェネレート":
     {
@@ -752,32 +752,32 @@
     "Ability.カウンターリジェネレート.2":
     {
         "jpn":"カウンターリジェネレートL2",
-        "eng":"Self-recovery Lv2",
+        "eng":"Counter: Regen Lv2",
     },
     "Ability.UnlockName.カウンターリジェネレート.2":
     {
         "jpn":"カウンターリジェネレートL2",
-        "eng":"Self-recovery Lv2",
+        "eng":"Counter: Regen Lv2",
     },
     "Ability.UnlockDescription.カウンターリジェネレート.2":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
+        "eng":"[Activation rate up]",
     },
     "Ability.カウンターリジェネレート.3":
     {
         "jpn":"カウンターリジェネレートL3",
-        "eng":"Self-recovery Lv3",
+        "eng":"Counter: Regen Lv3",
     },
     "Ability.UnlockName.カウンターリジェネレート.3":
     {
         "jpn":"カウンターリジェネレートL3",
-        "eng":"Self-recovery Lv3",
+        "eng":"Counter: Regen Lv3",
     },
     "Ability.UnlockDescription.カウンターリジェネレート.3":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
+        "eng":"[Activation rate up]",
     },
     "Ability.カウンター森羅結界":
     {
@@ -787,7 +787,7 @@
     "Ability.Description.カウンター森羅結界":
     {
         "jpn":"カウンターで森羅結界を張る",
-        "eng":"Have a chance to gain Supernatural Border when hit.",
+        "eng":"[Sometimes gain Supernatural Border status when hit]",
     },
     "Ability.UnlockName.カウンター森羅結界":
     {
@@ -797,7 +797,7 @@
     "Ability.UnlockDescription.カウンター森羅結界":
     {
         "jpn":"カウンターで森羅結界を張る",
-        "eng":"Have a chance to gain Supernatural Border when hit.",
+        "eng":"[Sometimes gain Supernatural Border status when hit]",
     },
     "Ability.CastNamePrefix.カウンター森羅結界":
     {
@@ -827,7 +827,7 @@
     "Ability.UnlockDescription.カウンター森羅結界.2":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
+        "eng":"[Activation rate up]",
     },
     "Ability.カウンター森羅結界.3":
     {
@@ -842,7 +842,7 @@
     "Ability.UnlockDescription.カウンター森羅結界.3":
     {
         "jpn":"発動率アップ",
-        "eng":"Increase the proc chance",
+        "eng":"[Activation rate up]",
     },
     "Ability.ガゴウジサイクロン":
     {
@@ -877,6 +877,7 @@
     "Ability.SpellText.ガゴウジサイクロン":
     {
         "jpn":"雷神の子よ、怨念の全てを\n今そこに刻め！　ガゴウジサイクロン！",
+		"eng":"Oh child of Thunder God, release your vengeful mark! Gagouji's Cyclone!",
     },
     "Ability.ガゴウジサイクロン.2":
     {
@@ -891,7 +892,7 @@
     "Ability.UnlockDescription.ガゴウジサイクロン.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.ガゴウジサイクロン.3":
     {
@@ -906,7 +907,7 @@
     "Ability.UnlockDescription.ガゴウジサイクロン.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.ガッツ":
     {
@@ -916,6 +917,7 @@
     "Ability.Description.ガッツ":
     {
         "jpn":"瀕死時に命中、回避、必殺がアップ",
+		"eng":"[At low HP recieve an increase to ACC, EVA, and CRT]",
     },
     "Ability.UnlockName.ガッツ":
     {
@@ -925,6 +927,7 @@
     "Ability.UnlockDescription.ガッツ":
     {
         "jpn":"瀕死時に命中、回避、必殺がアップ",
+		"eng":"[At low HP recieve an increase to ACC, EVA, and CRT]",
     },
     "Ability.ガッツ.2":
     {
@@ -939,6 +942,7 @@
     "Ability.UnlockDescription.ガッツ.2":
     {
         "jpn":"ステータス上昇量アップ",
+		"eng":"[Bigger stat boost at low HP]",
     },
     "Ability.ガッツ.3":
     {
@@ -953,6 +957,7 @@
     "Ability.UnlockDescription.ガッツ.3":
     {
         "jpn":"ステータス上昇量アップ",
+		"eng":"[Even bigger stat boost at low HP]",
     },
     "Ability.ガード":
     {
@@ -962,6 +967,7 @@
     "Ability.Description.ガード":
     {
         "jpn":"受けるダメージをたまに半減",
+		"eng":"[Sometimes take half damage]",
     },
     "Ability.UnlockName.ガード":
     {
@@ -971,6 +977,7 @@
     "Ability.UnlockDescription.ガード":
     {
         "jpn":"受けるダメージをたまに半減",
+		"eng":"[Sometimes take half damage]",
     },
     "Ability.CastNamePrefix.ガード":
     {
@@ -1000,6 +1007,7 @@
     "Ability.UnlockDescription.ガード.2":
     {
         "jpn":"発動率アップ",
+		"eng":"[Activation rate up]",
     },
     "Ability.ガード.3":
     {
@@ -1014,6 +1022,7 @@
     "Ability.UnlockDescription.ガード.3":
     {
         "jpn":"発動率アップ",
+		"eng":"[Activation rate up]",
     },
     "Ability.キョンシー":
     {
@@ -1023,6 +1032,7 @@
     "Ability.Description.キョンシー":
     {
         "jpn":"青娥がいると能力アップ",
+		"eng":"[Increased stats with Seiga]",
     },
     "Ability.UnlockName.キョンシー":
     {
@@ -1032,6 +1042,7 @@
     "Ability.UnlockDescription.キョンシー":
     {
         "jpn":"青娥がいると能力アップ",
+		"eng":"[Increased stats with Seiga]",
     },
     "Ability.サンダーバリア":
     {
@@ -1041,6 +1052,7 @@
     "Ability.Description.サンダーバリア":
     {
         "jpn":"接触攻撃にカウンター",
+		"eng":"[Counter against melee hits]",
     },
     "Ability.UnlockName.サンダーバリア":
     {
@@ -1050,6 +1062,7 @@
     "Ability.UnlockDescription.サンダーバリア":
     {
         "jpn":"接触攻撃にカウンター",
+		"eng":"[Counter against melee hits]",
     },
     "Ability.CastNamePrefix.サンダーバリア":
     {
@@ -1099,6 +1112,7 @@
     "Ability.SpellText.スカーレットデビル":
     {
         "jpn":"赤き弾幕に地を染めろ\n人妖を喰らう炎！　スカーレットデビル！",
+		"eng":"Paint the land in the all-consuming fires of scarlet danmaku! Scarlet Devil!",
     },
     "Ability.スカーレットデビル.2":
     {
@@ -1113,12 +1127,12 @@
     "Ability.UnlockDescription.スカーレットデビル.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.スカーレットデビル.3":
     {
         "jpn":"スカーレットデビル",
-        "eng":"Scarlet Devil3",
+        "eng":"Scarlet Devil Lv3",
     },
     "Ability.UnlockName.スカーレットデビル.3":
     {
@@ -1128,25 +1142,27 @@
     "Ability.UnlockDescription.スカーレットデビル.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.スキマ移動":
     {
         "jpn":"スキマ移動",
-        "eng":"Sukima Move",
+        "eng":"Gap Move",
     },
     "Ability.Description.スキマ移動":
     {
         "jpn":"あらゆる障害物を無視して移動",
+		"eng":"[Can ignore all obstacles while moving]",
     },
     "Ability.UnlockName.スキマ移動":
     {
         "jpn":"スキマ移動",
-        "eng":"Sukima Move",
+        "eng":"Gap Move",
     },
     "Ability.UnlockDescription.スキマ移動":
     {
         "jpn":"あらゆる障害物を無視して移動",
+		"eng":"[Can ignore all obstacles while moving]",
     },
     "Ability.ステルス":
     {
@@ -1156,6 +1172,7 @@
     "Ability.Description.ステルス":
     {
         "jpn":"狙われにくくなる",
+		"eng":"[Is targetted less frequently]",
     },
     "Ability.UnlockName.ステルス":
     {
@@ -1165,6 +1182,7 @@
     "Ability.UnlockDescription.ステルス":
     {
         "jpn":"狙われにくくなる",
+		"eng":"[Is targetted less frequently]",
     },
     "Ability.スプリーンイーター":
     {
@@ -1174,6 +1192,7 @@
     "Ability.Description.スプリーンイーター":
     {
         "jpn":"追加効果：攻撃低下",
+		"eng":"[Inflicts ATK down]",
     },
     "Ability.UnlockName.スプリーンイーター":
     {
@@ -1183,6 +1202,7 @@
     "Ability.UnlockDescription.スプリーンイーター":
     {
         "jpn":"追加効果：攻撃低下",
+		"eng":"[Inflicts ATK down]",
     },
     "Ability.CastNamePrefix.スプリーンイーター":
     {
@@ -1197,6 +1217,7 @@
     "Ability.SpellText.スプリーンイーター":
     {
         "jpn":"地獄の怨霊ども、集いて肝を食らえ！\nスプリーンイーター！",
+		"eng":"Vengeful earth spirits, gather and feast upon their livers! Spleen Eater!",
     },
     "Ability.スプリーンイーター.2":
     {
@@ -1211,7 +1232,7 @@
     "Ability.UnlockDescription.スプリーンイーター.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.スプリーンイーター.3":
     {
@@ -1226,7 +1247,7 @@
     "Ability.UnlockDescription.スプリーンイーター.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.スペルブースト":
     {
@@ -1341,6 +1362,7 @@
     "Ability.SpellText.セプテントリオン":
     {
         "jpn":"天を見よ！頭上に輝く死兆星！\n沈め、セプテントリオン！",
+		"eng":"Watch the heavens! Those stars that shine above! Fall, Septentrion!",
     },
     "Ability.セプテントリオン.2":
     {
@@ -1355,7 +1377,7 @@
     "Ability.UnlockDescription.セプテントリオン.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.セプテントリオン.3":
     {
@@ -1370,7 +1392,7 @@
     "Ability.UnlockDescription.セプテントリオン.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.ソウルスカルプチュア":
     {
@@ -1405,6 +1427,7 @@
     "Ability.SpellText.ソウルスカルプチュア":
     {
         "jpn":"誰だろうと関係のない処刑を思いついた！\nソウルスカルプチュア！",
+		"eng":"Your execution has already been decided! Soul Sculpture!",
     },
     "Ability.ソウルスカルプチュア.2":
     {
@@ -1419,7 +1442,7 @@
     "Ability.UnlockDescription.ソウルスカルプチュア.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.ソウルスカルプチュア.3":
     {
@@ -1434,7 +1457,7 @@
     "Ability.UnlockDescription.ソウルスカルプチュア.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.ゾンビフェアリー":
     {
@@ -1444,6 +1467,7 @@
     "Ability.Description.ゾンビフェアリー":
     {
         "jpn":"ゾンビフェアリーを呼び出す",
+		"eng":"[Summons a zombie fairy]",
     },
     "Ability.UnlockName.ゾンビフェアリー":
     {
@@ -1453,6 +1477,7 @@
     "Ability.UnlockDescription.ゾンビフェアリー":
     {
         "jpn":"ゾンビフェアリーを呼び出す",
+		"eng":"[Summons a zombie fairy]",
     },
     "Ability.ダッシュ":
     {
@@ -1482,6 +1507,7 @@
     "Ability.Description.トリップワイヤー":
     {
         "jpn":"上海人形との間にいるユニットに攻撃",
+		"eng":"[Attacks between self and Shanghai]",
     },
     "Ability.UnlockName.トリップワイヤー":
     {
@@ -1491,6 +1517,7 @@
     "Ability.UnlockDescription.トリップワイヤー":
     {
         "jpn":"上海人形との間にいるユニットに攻撃",
+		"eng":"[Attacks between self and Shanghai]",
     },
     "Ability.CastNamePrefix.トリップワイヤー":
     {
@@ -1505,6 +1532,7 @@
     "Ability.SpellText.トリップワイヤー":
     {
         "jpn":"我が線条よ、光を束ねて邪道を阻め\nトリップワイヤー！",
+		"eng":"Oh threads of mine, block the way of villainy with your light! Trip Wire!",
     },
     "Ability.トリップワイヤー.2":
     {
@@ -1519,7 +1547,7 @@
     "Ability.UnlockDescription.トリップワイヤー.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.トリップワイヤー.3":
     {
@@ -1534,7 +1562,7 @@
     "Ability.UnlockDescription.トリップワイヤー.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.ドラゴンメテオ":
     {
@@ -1569,6 +1597,7 @@
     "Ability.SpellText.ドラゴンメテオ":
     {
         "jpn":"天に星屑、地に龍脈\n引き合い呼応せよ！　ドラゴンメテオ！",
+		"eng":"Stars in the sky, Dragon in the earth, heed my call! Dragon Meteor!",
     },
     "Ability.ドラゴンメテオ.2":
     {
@@ -1583,7 +1612,7 @@
     "Ability.UnlockDescription.ドラゴンメテオ.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.ドラゴンメテオ.3":
     {
@@ -1598,7 +1627,7 @@
     "Ability.UnlockDescription.ドラゴンメテオ.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.ナイフ":
     {
@@ -1668,6 +1697,7 @@
     "Ability.SpellText.ノエキアンデリュージュ":
     {
         "jpn":"40日と40夜の豪雨よ、大地を洗え！\nノエキアンデリュージュ！",
+		"eng":"O Downpour of 40 days and 40 nights, cleanse the earth! Noachian Deluge!",
     },
     "Ability.ノエキアンデリュージュ.2":
     {
@@ -1682,7 +1712,7 @@
     "Ability.UnlockDescription.ノエキアンデリュージュ.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.ノエキアンデリュージュ.3":
     {
@@ -1697,7 +1727,7 @@
     "Ability.UnlockDescription.ノエキアンデリュージュ.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.ハングリータイガー":
     {
@@ -1732,6 +1762,7 @@
     "Ability.SpellText.ハングリータイガー":
     {
         "jpn":"飢えし獣には、汝の身を差し出せ！\nハングリータイガー！",
+		"eng":"I offer myself whole to the starving beast! Hungry Tiger!",
     },
     "Ability.ハングリータイガー.2":
     {
@@ -1746,7 +1777,7 @@
     "Ability.UnlockDescription.ハングリータイガー.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.ハングリータイガー.3":
     {
@@ -1761,7 +1792,7 @@
     "Ability.UnlockDescription.ハングリータイガー.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.フォースクライシス":
     {
@@ -1796,6 +1827,7 @@
     "Ability.SpellText.フォースクライシス":
     {
         "jpn":"八卦に従い、愚かなる者達の頭上に\n星砕け降り注げ！　フォースクライシス！",
+		"eng":"Let the stars fall upon the heads of these fools! Force Crisis!",
     },
     "Ability.フォースクライシス.2":
     {
@@ -1810,7 +1842,7 @@
     "Ability.UnlockDescription.フォースクライシス.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.フォースクライシス.3":
     {
@@ -1825,7 +1857,7 @@
     "Ability.UnlockDescription.フォースクライシス.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.ブラインドナイトバード":
     {
@@ -1835,6 +1867,7 @@
     "Ability.Description.ブラインドナイトバード":
     {
         "jpn":"追加効果：射程ダウン",
+		"eng":"[Inflicts Range down]",
     },
     "Ability.UnlockName.ブラインドナイトバード":
     {
@@ -1844,6 +1877,7 @@
     "Ability.UnlockDescription.ブラインドナイトバード":
     {
         "jpn":"追加効果：射程ダウン",
+		"eng":"[Inflicts Range down]",
     },
     "Ability.CastNamePrefix.ブラインドナイトバード":
     {
@@ -1858,6 +1892,7 @@
     "Ability.SpellText.ブラインドナイトバード":
     {
         "jpn":"敵発見！　私が鳥目にしてあげる！\nブラインドナイトバード！",
+		"eng":"Enemy sighted! I'll make you night blind!\nBlind Nightbird!",
     },
     "Ability.ブラインドナイトバード.2":
     {
@@ -1872,7 +1907,7 @@
     "Ability.UnlockDescription.ブラインドナイトバード.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.ブラインドナイトバード.3":
     {
@@ -1887,7 +1922,7 @@
     "Ability.UnlockDescription.ブラインドナイトバード.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.ブロック":
     {
@@ -1897,6 +1932,7 @@
     "Ability.Description.ブロック":
     {
         "jpn":"接触攻撃をたまに回避",
+		"eng":"[Sometimes evade melee attacks]",
     },
     "Ability.UnlockName.ブロック":
     {
@@ -1906,6 +1942,7 @@
     "Ability.UnlockDescription.ブロック":
     {
         "jpn":"接触攻撃をたまに回避",
+		"eng":"[Sometimes evade melee attacks]",
     },
     "Ability.CastNamePrefix.ブロック":
     {
@@ -1935,6 +1972,7 @@
     "Ability.UnlockDescription.ブロック.2":
     {
         "jpn":"発動率アップ",
+		"eng":"[Activation rate up]",
     },
     "Ability.ブロック.3":
     {
@@ -1949,6 +1987,7 @@
     "Ability.UnlockDescription.ブロック.3":
     {
         "jpn":"発動率アップ",
+		"eng":"[Activation rate up]",
     },
     "Ability.ポイズンレイズ":
     {
@@ -1958,6 +1997,7 @@
     "Ability.Description.ポイズンレイズ":
     {
         "jpn":"追加効果：毒",
+		"eng":"[Inflicts Poison]",
     },
     "Ability.UnlockName.ポイズンレイズ":
     {
@@ -1967,6 +2007,7 @@
     "Ability.UnlockDescription.ポイズンレイズ":
     {
         "jpn":"追加効果：毒",
+		"eng":"[Inflicts Poison]",
     },
     "Ability.CastNamePrefix.ポイズンレイズ":
     {
@@ -1981,6 +2022,7 @@
     "Ability.SpellText.ポイズンレイズ":
     {
         "jpn":"肉体をむしばみ 不浄の爪に満つる毒\n禁忌なる屍… ポイズンレイズ！",
+		"eng":"Impure claws brimming with poison, eat away at their bodies! Poison Raze!",
     },
     "Ability.ポイズンレイズ.2":
     {
@@ -1995,7 +2037,7 @@
     "Ability.UnlockDescription.ポイズンレイズ.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.ポイズンレイズ.3":
     {
@@ -2010,7 +2052,7 @@
     "Ability.UnlockDescription.ポイズンレイズ.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.マスタースパーク":
     {
@@ -2020,6 +2062,7 @@
     "Ability.Description.マスタースパーク":
     {
         "jpn":"使用後魔法の威力半減",
+		"eng":"[Magic damage halved after use]",
     },
     "Ability.UnlockName.マスタースパーク":
     {
@@ -2029,6 +2072,7 @@
     "Ability.UnlockDescription.マスタースパーク":
     {
         "jpn":"使用後魔法の威力半減",
+		"eng":"[Magic damage halved after use]",
     },
     "Ability.CastNamePrefix.マスタースパーク":
     {
@@ -2043,6 +2087,7 @@
     "Ability.SpellText.マスタースパーク":
     {
         "jpn":"四象、八卦を生じ　恋色の光を放て！\nマスタースパーク！",
+		"eng":"Let the love-colored light shine!\nMaster Spark!",
     },
     "Ability.マスタースパーク.2":
     {
@@ -2057,7 +2102,7 @@
     "Ability.UnlockDescription.マスタースパーク.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.マスタースパーク.3":
     {
@@ -2072,7 +2117,7 @@
     "Ability.UnlockDescription.マスタースパーク.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.ミレニアムの吸血鬼":
     {
@@ -2082,6 +2127,7 @@
     "Ability.Description.ミレニアムの吸血鬼":
     {
         "jpn":"HP吸収能力を得る",
+		"eng":"[Gain HP drain]",
     },
     "Ability.UnlockName.ミレニアムの吸血鬼":
     {
@@ -2091,6 +2137,7 @@
     "Ability.UnlockDescription.ミレニアムの吸血鬼":
     {
         "jpn":"HP吸収能力を得る",
+		"eng":"[Gain HP drain]",
     },
     "Ability.CastNamePrefix.ミレニアムの吸血鬼":
     {
@@ -2105,6 +2152,7 @@
     "Ability.SpellText.ミレニアムの吸血鬼":
     {
         "jpn":"紅魔の理に従い、血液のうち少しを\n我が身のために…　ミレニアムの吸血鬼！",
+		"eng":"Even the smallest drop of blood, all to sustain me! Millennium Vampire!",
     },
     "Ability.ヤンシャオグイ":
     {
@@ -2114,6 +2162,7 @@
     "Ability.Description.ヤンシャオグイ":
     {
         "jpn":"追加効果：敏捷低下",
+		"eng":"[Inflicts AGI down]",
     },
     "Ability.UnlockName.ヤンシャオグイ":
     {
@@ -2123,6 +2172,7 @@
     "Ability.UnlockDescription.ヤンシャオグイ":
     {
         "jpn":"追加効果：敏捷低下",
+		"eng":"[Inflicts AGI down]",
     },
     "Ability.CastNamePrefix.ヤンシャオグイ":
     {
@@ -2137,6 +2187,7 @@
     "Ability.SpellText.ヤンシャオグイ":
     {
         "jpn":"小さき骨、幼き霊　君を追わんと欲す\nヤンシャオグイ！",
+		"eng":"Small bones, little spirits, my wish is for you! Yang Xiaogui!",
     },
     "Ability.ヤンシャオグイ.2":
     {
@@ -2151,7 +2202,7 @@
     "Ability.UnlockDescription.ヤンシャオグイ.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.ヤンシャオグイ.3":
     {
@@ -2166,7 +2217,7 @@
     "Ability.UnlockDescription.ヤンシャオグイ.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.ラストジャッジメント":
     {
@@ -2201,6 +2252,7 @@
     "Ability.SpellText.ラストジャッジメント":
     {
         "jpn":"死者も生者も逃れられぬ審判を受けよ！\nラストジャッジメント！",
+		"eng":"A trial from which neither the living nor dead can escape! Last Judgement!",
     },
     "Ability.ラストジャッジメント.2":
     {
@@ -2215,7 +2267,7 @@
     "Ability.UnlockDescription.ラストジャッジメント.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.ラストジャッジメント.3":
     {
@@ -2230,7 +2282,7 @@
     "Ability.UnlockDescription.ラストジャッジメント.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.ロイヤルフレア":
     {
@@ -2240,6 +2292,7 @@
     "Ability.Description.ロイヤルフレア":
     {
         "jpn":"使用後魔法の威力半減",
+		"eng":"[Magic damage halved after use]",
     },
     "Ability.UnlockName.ロイヤルフレア":
     {
@@ -2249,6 +2302,7 @@
     "Ability.UnlockDescription.ロイヤルフレア":
     {
         "jpn":"使用後魔法の威力半減",
+		"eng":"[Magic damage halved after use]",
     },
     "Ability.CastNamePrefix.ロイヤルフレア":
     {
@@ -2263,6 +2317,7 @@
     "Ability.SpellText.ロイヤルフレア":
     {
         "jpn":"日輪揺らぎて、迸る焔は\n天と地を焼かん　ロイヤルフレア！",
+		"eng":"The sun flickers, it's flames scorch both heaven and earth! Royal Flare!",
     },
     "Ability.ロイヤルフレア.2":
     {
@@ -2277,6 +2332,7 @@
     "Ability.UnlockDescription.ロイヤルフレア.2":
     {
         "jpn":"ヒット数アップ",
+		"eng":"[Hit count up]",
     },
     "Ability.ロイヤルフレア.3":
     {
@@ -2291,6 +2347,7 @@
     "Ability.UnlockDescription.ロイヤルフレア.3":
     {
         "jpn":"ヒット数アップ",
+		"eng":"[Hit count up]",
     },
     "Ability.ワイルドカーペット":
     {
@@ -2300,6 +2357,7 @@
     "Ability.Description.ワイルドカーペット":
     {
         "jpn":"状態変化を解除",
+		"eng":"[Removes statuses]",
     },
     "Ability.UnlockName.ワイルドカーペット":
     {
@@ -2309,6 +2367,7 @@
     "Ability.UnlockDescription.ワイルドカーペット":
     {
         "jpn":"状態変化を解除",
+		"eng":"[Removes statuses]",
     },
     "Ability.CastNamePrefix.ワイルドカーペット":
     {
@@ -2323,6 +2382,7 @@
     "Ability.SpellText.ワイルドカーペット":
     {
         "jpn":"鳥獣たちよ、来たりて大地を覆え！\nワイルドカーペット！",
+		"eng":"Come now, birds and beasts, and cover the lands! Wild Carpet!",
     },
     "Ability.ワイルドカーペット.2":
     {
@@ -2337,7 +2397,7 @@
     "Ability.UnlockDescription.ワイルドカーペット.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.ワイルドカーペット.3":
     {
@@ -2352,7 +2412,7 @@
     "Ability.UnlockDescription.ワイルドカーペット.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.一寸法師にも五分の魂":
     {
@@ -2362,6 +2422,7 @@
     "Ability.Description.一寸法師にも五分の魂":
     {
         "jpn":"防御無視ダメージ カウンター無効",
+		"eng":"[Ignores defense & counters]",
     },
     "Ability.UnlockName.一寸法師にも五分の魂":
     {
@@ -2371,6 +2432,7 @@
     "Ability.UnlockDescription.一寸法師にも五分の魂":
     {
         "jpn":"防御無視ダメージ カウンター無効",
+		"eng":"[Ignores defense & counters]",
     },
     "Ability.CastNamePrefix.一寸法師にも五分の魂":
     {
@@ -2385,6 +2447,8 @@
     "Ability.SpellText.一寸法師にも五分の魂":
     {
         "jpn":"小さくなあれ、大きくなあれ\nそして砕けろ！　一寸法師にも五分の魂！",
+		"eng":"Become small, become big, and break into pieces! One-Inch Samurai with a Half-Inch Soul!",
+		
     },
     "Ability.一寸法師にも五分の魂.2":
     {
@@ -2399,7 +2463,7 @@
     "Ability.UnlockDescription.一寸法師にも五分の魂.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.一寸法師にも五分の魂.3":
     {
@@ -2414,7 +2478,7 @@
     "Ability.UnlockDescription.一寸法師にも五分の魂.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.上海人形":
     {
@@ -2424,6 +2488,7 @@
     "Ability.Description.上海人形":
     {
         "jpn":"上海人形を呼び出す",
+		"eng":"[Summon a Shanghai doll]",
     },
     "Ability.UnlockName.上海人形":
     {
@@ -2433,6 +2498,7 @@
     "Ability.UnlockDescription.上海人形":
     {
         "jpn":"上海人形を呼び出す",
+		"eng":"[Summon a Shanghai doll]",
     },
     "Ability.二ッ岩家の裁き":
     {
@@ -2442,6 +2508,7 @@
     "Ability.Description.二ッ岩家の裁き":
     {
         "jpn":"追加効果：変化",
+		"eng":"[Inflicts Curse]",
     },
     "Ability.UnlockName.二ッ岩家の裁き":
     {
@@ -2451,6 +2518,7 @@
     "Ability.UnlockDescription.二ッ岩家の裁き":
     {
         "jpn":"追加効果：変化",
+		"eng":"[Inflicts Curse]",
     },
     "Ability.CastNamePrefix.二ッ岩家の裁き":
     {
@@ -2465,6 +2533,7 @@
     "Ability.SpellText.二ッ岩家の裁き":
     {
         "jpn":"小さき者へ、弱き者へ、毛深き者へ\n変化の術を身に受けよ　二ッ岩家の裁き！",
+		"eng":"Embrace change!\nFutatsuiwa Clan's Curse!",
     },
     "Ability.二回攻撃":
     {
@@ -2609,6 +2678,7 @@
     "Ability.Description.余命幾許も無し":
     {
         "jpn":"相手のHPを半減",
+		"eng":"[Halves enemy HP]",
     },
     "Ability.UnlockName.余命幾許も無し":
     {
@@ -2618,6 +2688,7 @@
     "Ability.UnlockDescription.余命幾許も無し":
     {
         "jpn":"相手のHPを半減",
+		"eng":"[Halves enemy HP]",
     },
     "Ability.CastNamePrefix.余命幾許も無し":
     {
@@ -2632,6 +2703,7 @@
     "Ability.SpellText.余命幾許も無し":
     {
         "jpn":"死神の手をとり、蝋燭を叩き切り\n三途の川を渡れ…　余命幾許もなし！",
+		"eng":"Take the hand of the shinigami and cross the Sanzu...Your Days Are Numbered!",
     },
     "Ability.余命幾許も無し.2":
     {
@@ -2646,6 +2718,7 @@
     "Ability.UnlockDescription.余命幾許も無し.2":
     {
         "jpn":"命中上昇",
+		"eng":"[Increase Accuracy]",
     },
     "Ability.余命幾許も無し.3":
     {
@@ -2660,6 +2733,7 @@
     "Ability.UnlockDescription.余命幾許も無し.3":
     {
         "jpn":"命中上昇",
+		"eng":"[Increase Accuracy]",
     },
     "Ability.八方鬼縛陣":
     {
@@ -2669,6 +2743,7 @@
     "Ability.Description.八方鬼縛陣":
     {
         "jpn":"妖怪特効",
+		"eng":"[Youkai Slayer]",
     },
     "Ability.UnlockName.八方鬼縛陣":
     {
@@ -2678,6 +2753,7 @@
     "Ability.UnlockDescription.八方鬼縛陣":
     {
         "jpn":"妖怪特効",
+		"eng":"[Youkai Slayer]",
     },
     "Ability.CastNamePrefix.八方鬼縛陣":
     {
@@ -2692,6 +2768,7 @@
     "Ability.SpellText.八方鬼縛陣":
     {
         "jpn":"神力、我が身を囲いて\n輝く呪縛となれ！　八方鬼縛陣！",
+		"eng":"Enveloped in divine shining binds! Omnidirectional Demon-Binding Circle!",
     },
     "Ability.八方鬼縛陣.2":
     {
@@ -2706,7 +2783,7 @@
     "Ability.UnlockDescription.八方鬼縛陣.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.八方鬼縛陣.3":
     {
@@ -2721,7 +2798,7 @@
     "Ability.UnlockDescription.八方鬼縛陣.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.勧善懲悪は古の良き典なり":
     {
@@ -2731,6 +2808,7 @@
     "Ability.Description.勧善懲悪は古の良き典なり":
     {
         "jpn":"相手の装備を破壊する",
+		"eng":"[Breaks equipment]",
     },
     "Ability.UnlockName.勧善懲悪は古の良き典なり":
     {
@@ -2740,6 +2818,7 @@
     "Ability.UnlockDescription.勧善懲悪は古の良き典なり":
     {
         "jpn":"相手の装備を破壊する",
+		"eng":"[Breaks equipment]",
     },
     "Ability.CastNamePrefix.勧善懲悪は古の良き典なり":
     {
@@ -2754,6 +2833,7 @@
     "Ability.SpellText.勧善懲悪は古の良き典なり":
     {
         "jpn":"へつらいあざむく者の利器鋒剣を砕かん\n勧善懲悪は古の良き典なり！",
+		"eng":"Crush the sword of the wicked!\nTradition of Just Rewards!",
     },
     "Ability.勧善懲悪は古の良き典なり.2":
     {
@@ -2768,7 +2848,7 @@
     "Ability.UnlockDescription.勧善懲悪は古の良き典なり.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.勧善懲悪は古の良き典なり.3":
     {
@@ -2783,7 +2863,7 @@
     "Ability.UnlockDescription.勧善懲悪は古の良き典なり.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.十王裁判":
     {
@@ -2818,6 +2898,7 @@
     "Ability.SpellText.十王裁判":
     {
         "jpn":"天空の光に己の罪を問え！\n審判、十王裁判！",
+		"eng":"Speak your sins before the light of heaven! Trial of the Ten Kings!",
     },
     "Ability.十王裁判.2":
     {
@@ -2832,7 +2913,7 @@
     "Ability.UnlockDescription.十王裁判.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.十王裁判.3":
     {
@@ -2847,7 +2928,7 @@
     "Ability.UnlockDescription.十王裁判.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.呪力吸収":
     {
@@ -2857,6 +2938,7 @@
     "Ability.Description.呪力吸収":
     {
         "jpn":"ダメージを受けたとき、相手が使った呪力を回収",
+		"eng":"[When you take damage, gain the JP spent]",
     },
     "Ability.UnlockName.呪力吸収":
     {
@@ -2866,6 +2948,7 @@
     "Ability.UnlockDescription.呪力吸収":
     {
         "jpn":"ダメージを受けたとき、相手が使った呪力を回収",
+		"eng":"[When you take damage, gain the JP spent]",
     },
     "Ability.CastNamePrefix.呪力吸収":
     {
@@ -2930,6 +3013,7 @@
     "Ability.UnlockName.命中アップ.2":
     {
         "jpn":"命中+10",
+		"eng":"Accuracy +10",
     },
     "Ability.UnlockDescription.命中アップ.2":
     {
@@ -2989,6 +3073,7 @@
     "Ability.Description.咲夜の世界":
     {
         "jpn":"連続行動",
+		"eng":"[Consecutive Action]",
     },
     "Ability.UnlockName.咲夜の世界":
     {
@@ -2998,6 +3083,7 @@
     "Ability.UnlockDescription.咲夜の世界":
     {
         "jpn":"連続行動",
+		"eng":"[Consecutive Action]",
     },
     "Ability.CastNamePrefix.咲夜の世界":
     {
@@ -3012,6 +3098,7 @@
     "Ability.SpellText.咲夜の世界":
     {
         "jpn":"あなたの時間も私のもの\n動けぬ者に勝ち目は、ない　咲夜の世界！",
+		"eng":"Your time, is also mine. Those who cannot move, cannot win. Sakuya's World!",
     },
     "Ability.咲夜の世界.2":
     {
@@ -3026,6 +3113,7 @@
     "Ability.UnlockDescription.咲夜の世界.2":
     {
         "jpn":"行動回数増加",
+		"eng":"[Action count increased]",
     },
     "Ability.咲夜の世界.3":
     {
@@ -3040,6 +3128,7 @@
     "Ability.UnlockDescription.咲夜の世界.3":
     {
         "jpn":"コスト減少",
+		"eng":"[Cost down]",
     },
     "Ability.回避":
     {
@@ -3164,6 +3253,7 @@
     "Ability.Description.壁無視移動":
     {
         "jpn":"壁を無視して移動",
+		"eng":"[Can ignore walls while moving]",
     },
     "Ability.UnlockName.壁無視移動":
     {
@@ -3173,6 +3263,7 @@
     "Ability.UnlockDescription.壁無視移動":
     {
         "jpn":"壁を無視して移動",
+		"eng":"[Can ignore walls while moving]",
     },
     "Ability.夜雀の歌":
     {
@@ -3182,6 +3273,7 @@
     "Ability.Description.夜雀の歌":
     {
         "jpn":"追加効果：命中ダウン",
+		"eng":"[Inflicts Accuracy down]",
     },
     "Ability.UnlockName.夜雀の歌":
     {
@@ -3191,6 +3283,7 @@
     "Ability.UnlockDescription.夜雀の歌":
     {
         "jpn":"追加効果：命中ダウン",
+		"eng":"[Inflicts Accuracy down]",
     },
     "Ability.CastNamePrefix.夜雀の歌":
     {
@@ -3205,6 +3298,7 @@
     "Ability.SpellText.夜雀の歌":
     {
         "jpn":"弾幕なんかよりも爆発力のある\n夜雀の歌を聴けー！",
+		"eng":"More explosive than danmaku, listen to the Song of the Night Sparrow!",
     },
     "Ability.夜雀の歌.2":
     {
@@ -3219,7 +3313,7 @@
     "Ability.UnlockDescription.夜雀の歌.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.夜雀の歌.3":
     {
@@ -3234,7 +3328,7 @@
     "Ability.UnlockDescription.夜雀の歌.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.夢想封印":
     {
@@ -3244,6 +3338,7 @@
     "Ability.Description.夢想封印":
     {
         "jpn":"妖怪特効",
+		"eng":"[Youkai Slayer]",
     },
     "Ability.UnlockName.夢想封印":
     {
@@ -3253,6 +3348,7 @@
     "Ability.UnlockDescription.夢想封印":
     {
         "jpn":"妖怪特効",
+		"eng":"[Youkai Slayer]",
     },
     "Ability.CastNamePrefix.夢想封印":
     {
@@ -3267,6 +3363,7 @@
     "Ability.SpellText.夢想封印":
     {
         "jpn":"光つどいて\n魔を封ぜよ！　夢想封印！",
+		"eng":"Gather light, and seal away evil!\nFantasy Seal!",
     },
     "Ability.夢想封印.2":
     {
@@ -3281,7 +3378,7 @@
     "Ability.UnlockDescription.夢想封印.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.夢想封印.3":
     {
@@ -3296,7 +3393,7 @@
     "Ability.UnlockDescription.夢想封印.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.大日如来の輝き":
     {
@@ -3306,6 +3403,7 @@
     "Ability.Description.大日如来の輝き":
     {
         "jpn":"射撃・接触攻撃をかわしてカウンター",
+		"eng":"[Dodge shooting and melee attacks, then counter]",
     },
     "Ability.UnlockName.大日如来の輝き":
     {
@@ -3315,6 +3413,7 @@
     "Ability.UnlockDescription.大日如来の輝き":
     {
         "jpn":"射撃・接触攻撃をかわしてカウンター",
+		"eng":"[Dodge shooting and melee attacks, then counter]",
     },
     "Ability.CastNamePrefix.大日如来の輝き":
     {
@@ -3344,7 +3443,7 @@
     "Ability.UnlockDescription.大日如来の輝き.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.大日如来の輝き.3":
     {
@@ -3359,7 +3458,7 @@
     "Ability.UnlockDescription.大日如来の輝き.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.大火の改新":
     {
@@ -3369,6 +3468,7 @@
     "Ability.Description.大火の改新":
     {
         "jpn":"地形変化",
+		"eng":"[Terrain change]",
     },
     "Ability.UnlockName.大火の改新":
     {
@@ -3378,6 +3478,7 @@
     "Ability.UnlockDescription.大火の改新":
     {
         "jpn":"地形変化",
+		"eng":"[Terrain change]",
     },
     "Ability.CastNamePrefix.大火の改新":
     {
@@ -3392,6 +3493,7 @@
     "Ability.SpellText.大火の改新":
     {
         "jpn":"地に潜む炎よ、世を赤く染めよ！\n今こそ来たれ、大火の改新！",
+		"eng":"Flames below, paint the world red! The time hath cometh, Inferno Reformation!",
     },
     "Ability.大火の改新.2":
     {
@@ -3406,7 +3508,7 @@
     "Ability.UnlockDescription.大火の改新.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.大火の改新.3":
     {
@@ -3421,7 +3523,7 @@
     "Ability.UnlockDescription.大火の改新.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.威圧":
     {
@@ -3431,6 +3533,7 @@
     "Ability.Description.威圧":
     {
         "jpn":"敵ユニットの移動を阻害",
+		"eng":"[Halts enemy movement]",
     },
     "Ability.UnlockName.威圧":
     {
@@ -3440,6 +3543,7 @@
     "Ability.UnlockDescription.威圧":
     {
         "jpn":"敵ユニットの移動を阻害",
+		"eng":"[Halts enemy movement]",
     },
     "Ability.威圧.2":
     {
@@ -3454,6 +3558,7 @@
     "Ability.UnlockDescription.威圧.2":
     {
         "jpn":"敵ユニットの移動を阻害",
+		"eng":"[Halts enemy movement]",
     },
     "Ability.宵越しの銭":
     {
@@ -3463,6 +3568,7 @@
     "Ability.Description.宵越しの銭":
     {
         "jpn":"所持金を消費して攻撃",
+		"eng":"[Uses money to attack]",
     },
     "Ability.UnlockName.宵越しの銭":
     {
@@ -3472,6 +3578,7 @@
     "Ability.UnlockDescription.宵越しの銭":
     {
         "jpn":"所持金を消費して攻撃",
+		"eng":"[Uses money to attack]",
     },
     "Ability.CastNamePrefix.宵越しの銭":
     {
@@ -3486,6 +3593,7 @@
     "Ability.SpellText.宵越しの銭":
     {
         "jpn":"六文銭をつかみ、冥府への旅路にのぞめ！\n宵越しの銭！",
+		"eng":"Prepare yourself for a journey to the underworld! Yesterday's Money!",
     },
     "Ability.宵越しの銭.2":
     {
@@ -3500,7 +3608,7 @@
     "Ability.UnlockDescription.宵越しの銭.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.宵越しの銭.3":
     {
@@ -3515,12 +3623,12 @@
     "Ability.UnlockDescription.宵越しの銭.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.射撃":
     {
         "jpn":"射撃",
-        "eng":"Ranged Attack",
+        "eng":"Shoot",
     },
     "Ability.Description.射撃":
     {
@@ -3530,7 +3638,7 @@
     "Ability.UnlockName.射撃":
     {
         "jpn":"射撃",
-        "eng":"Ranged Attack",
+        "eng":"Shoot",
     },
     "Ability.UnlockDescription.射撃":
     {
@@ -3695,14 +3803,17 @@
     "Ability.Description.想起":
     {
         "jpn":"直前に使われたスペルカードを発動",
+		"eng":"[Uses the last used Spellcard]",
     },
     "Ability.UnlockName.想起":
     {
         "jpn":"想起",
+		"eng":"Recollection",
     },
     "Ability.UnlockDescription.想起":
     {
         "jpn":"直前に使われたスペルカードを発動",
+		"eng":"[Uses the last used Spellcard]",
     },
     "Ability.攻撃":
     {
@@ -3907,6 +4018,7 @@
     "Ability.Description.敵無視移動":
     {
         "jpn":"敵ユニットを無視して移動",
+		"eng":"[Ignore enemy units while moving]",
     },
     "Ability.UnlockName.敵無視移動":
     {
@@ -3916,6 +4028,7 @@
     "Ability.UnlockDescription.敵無視移動":
     {
         "jpn":"敵ユニットを無視して移動",
+		"eng":"[Ignore enemy units while moving]",
     },
     "Ability.施餓鬼縛りの術":
     {
@@ -3925,6 +4038,7 @@
     "Ability.Description.施餓鬼縛りの術":
     {
         "jpn":"敵ユニットの呪力を奪う",
+		"eng":"[Steal enemy's JP]",
     },
     "Ability.UnlockName.施餓鬼縛りの術":
     {
@@ -3934,6 +4048,7 @@
     "Ability.UnlockDescription.施餓鬼縛りの術":
     {
         "jpn":"敵ユニットの呪力を奪う",
+		"eng":"[Steal enemy's JP]",
     },
     "Ability.CastNamePrefix.施餓鬼縛りの術":
     {
@@ -3948,6 +4063,7 @@
     "Ability.SpellText.施餓鬼縛りの術":
     {
         "jpn":"飢えし者ども　呑めや歌え\n施餓鬼縛りの術！",
+		"eng":"A little drink and dancing for the starved, Art of Segaki Binding!",
     },
     "Ability.施餓鬼縛りの術.2":
     {
@@ -3962,7 +4078,7 @@
     "Ability.UnlockDescription.施餓鬼縛りの術.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.施餓鬼縛りの術.3":
     {
@@ -3977,7 +4093,7 @@
     "Ability.UnlockDescription.施餓鬼縛りの術.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.月兎遠隔催眠術(テレメスメリズム)":
     {
@@ -3987,6 +4103,7 @@
     "Ability.Description.月兎遠隔催眠術(テレメスメリズム)":
     {
         "jpn":"50%の確率で相手の行動値を下げる",
+		"eng":"[50% chance to lower enemy ACT]",
     },
     "Ability.UnlockName.月兎遠隔催眠術(テレメスメリズム)":
     {
@@ -3996,6 +4113,7 @@
     "Ability.UnlockDescription.月兎遠隔催眠術(テレメスメリズム)":
     {
         "jpn":"50%の確率で相手の行動値を下げる",
+		"eng":"[50% chance to lower enemy ACT]",
     },
     "Ability.CastNamePrefix.月兎遠隔催眠術(テレメスメリズム)":
     {
@@ -4010,6 +4128,7 @@
     "Ability.SpellText.月兎遠隔催眠術(テレメスメリズム)":
     {
         "jpn":"狂気の瞳に　揺らげ意識よ\n月兎遠隔催眠術！",
+		"eng":"Consciousness waver before eyes of madness! Tele-mesmerism!",
     },
     "Ability.月兎遠隔催眠術(テレメスメリズム).2":
     {
@@ -4024,7 +4143,7 @@
     "Ability.UnlockDescription.月兎遠隔催眠術(テレメスメリズム).2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.月兎遠隔催眠術(テレメスメリズム).3":
     {
@@ -4039,7 +4158,7 @@
     "Ability.UnlockDescription.月兎遠隔催眠術(テレメスメリズム).3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.森羅結界":
     {
@@ -4049,6 +4168,7 @@
     "Ability.Description.森羅結界":
     {
         "jpn":"ダメージを一度だけ無効化するバリア",
+		"eng":"[Barrier that blocks a single attack]",
     },
     "Ability.UnlockName.森羅結界":
     {
@@ -4058,6 +4178,7 @@
     "Ability.UnlockDescription.森羅結界":
     {
         "jpn":"ダメージを一度だけ無効化するバリア",
+		"eng":"[Barrier that blocks a single attack]",
     },
     "Ability.CastNamePrefix.森羅結界":
     {
@@ -4072,6 +4193,7 @@
     "Ability.SpellText.森羅結界":
     {
         "jpn":"桜の花弁よ、\n森羅万象よりこの身を守れ！",
+		"eng":"O sakura petals, guard me from all which seeks to harm!",
     },
     "Ability.残機アップ":
     {
@@ -4096,18 +4218,22 @@
     "Ability.水上移動":
     {
         "jpn":"水上移動",
+		"eng":"Water move",
     },
     "Ability.Description.水上移動":
     {
         "jpn":"水上を移動できる",
+		"eng":"[Can move on top of water]",
     },
     "Ability.UnlockName.水上移動":
     {
         "jpn":"水上移動",
+		"eng":"Water move",
     },
     "Ability.UnlockDescription.水上移動":
     {
         "jpn":"水上を移動できる",
+		"eng":"[Can move on top of water]",
     },
     "Ability.浮遊":
     {
@@ -4117,6 +4243,7 @@
     "Ability.Description.浮遊":
     {
         "jpn":"地形の影響をうけなくなる",
+		"eng":"[Becomes unaffected by terrain]",
     },
     "Ability.UnlockName.浮遊":
     {
@@ -4126,22 +4253,27 @@
     "Ability.UnlockDescription.浮遊":
     {
         "jpn":"地形の影響をうけなくなる",
+		"eng":"[Becomes unaffected by terrain]",
     },
     "Ability.溶岩上移動":
     {
         "jpn":"溶岩上移動",
+		"eng":"Lava move",
     },
     "Ability.Description.溶岩上移動":
     {
         "jpn":"地形ダメージを受けなくなる",
+		"eng":"[Becomes immune to terrain damage]",
     },
     "Ability.UnlockName.溶岩上移動":
     {
         "jpn":"溶岩上移動",
+		"eng":"Lava move",
     },
     "Ability.UnlockDescription.溶岩上移動":
     {
         "jpn":"地形ダメージを受けなくなる",
+		"eng":"[Becomes immune to terrain damage]",
     },
     "Ability.瀕死HP回復":
     {
@@ -4151,6 +4283,7 @@
     "Ability.Description.瀕死HP回復":
     {
         "jpn":"瀕死時にたまにHPが回復",
+		"eng":"[When reduced to low HP, sometimes recover HP]",
     },
     "Ability.UnlockName.瀕死HP回復":
     {
@@ -4160,6 +4293,7 @@
     "Ability.UnlockDescription.瀕死HP回復":
     {
         "jpn":"瀕死時にたまにHPが回復",
+		"eng":"[When reduced to low HP, sometimes recover HP]",
     },
     "Ability.CastNamePrefix.瀕死HP回復":
     {
@@ -4189,6 +4323,7 @@
     "Ability.UnlockDescription.瀕死HP回復.2":
     {
         "jpn":"発動率アップ",
+		"eng":"[Activation rate up]",
     },
     "Ability.瀕死HP回復.3":
     {
@@ -4203,6 +4338,7 @@
     "Ability.UnlockDescription.瀕死HP回復.3":
     {
         "jpn":"発動率アップ",
+		"eng":"[Activation rate up]",
     },
     "Ability.瀕死クイック":
     {
@@ -4212,6 +4348,7 @@
     "Ability.Description.瀕死クイック":
     {
         "jpn":"瀕死時にたまに行動値が増加",
+		"eng":"[When reduced to low HP, sometimes gain ACT]",
     },
     "Ability.UnlockName.瀕死クイック":
     {
@@ -4221,6 +4358,7 @@
     "Ability.UnlockDescription.瀕死クイック":
     {
         "jpn":"瀕死時にたまに行動値が増加",
+		"eng":"[When reduced to low HP, sometimes gain ACT]",
     },
     "Ability.CastNamePrefix.瀕死クイック":
     {
@@ -4250,6 +4388,7 @@
     "Ability.UnlockDescription.瀕死クイック.2":
     {
         "jpn":"発動率アップ",
+		"eng":"[Activation rate up]",
     },
     "Ability.瀕死呪力チャージ":
     {
@@ -4259,6 +4398,7 @@
     "Ability.Description.瀕死呪力チャージ":
     {
         "jpn":"瀕死時に呪力が増加",
+		"eng":"[When reduced to low HP, gain JP]",
     },
     "Ability.UnlockName.瀕死呪力チャージ":
     {
@@ -4268,6 +4408,7 @@
     "Ability.UnlockDescription.瀕死呪力チャージ":
     {
         "jpn":"瀕死時に呪力が増加",
+		"eng":"[When reduced to low HP, gain JP]",
     },
     "Ability.CastNamePrefix.瀕死呪力チャージ":
     {
@@ -4297,6 +4438,7 @@
     "Ability.UnlockDescription.瀕死呪力チャージ.2":
     {
         "jpn":"増加量アップ",
+		"eng":"[Amount gained increased]",
     },
     "Ability.瀕死呪力チャージ.3":
     {
@@ -4311,6 +4453,7 @@
     "Ability.UnlockDescription.瀕死呪力チャージ.3":
     {
         "jpn":"増加量アップ",
+		"eng":"[Amount gained increased]",
     },
     "Ability.火焔の車輪":
     {
@@ -4320,6 +4463,7 @@
     "Ability.Description.火焔の車輪":
     {
         "jpn":"地形変化",
+		"eng":"[Terrain change]",
     },
     "Ability.UnlockName.火焔の車輪":
     {
@@ -4329,6 +4473,7 @@
     "Ability.UnlockDescription.火焔の車輪":
     {
         "jpn":"地形変化",
+		"eng":"[Terrain change]",
     },
     "Ability.CastNamePrefix.火焔の車輪":
     {
@@ -4343,6 +4488,7 @@
     "Ability.SpellText.火焔の車輪":
     {
         "jpn":"地に閉ざされし、地獄の炎よ\n死者の罪を問え！ 火焔の車輪！",
+		"eng":"Flames of hell trapped below, punish the dead! Blazing Wheel!",
     },
     "Ability.火焔の車輪.2":
     {
@@ -4357,7 +4503,7 @@
     "Ability.UnlockDescription.火焔の車輪.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.火焔の車輪.3":
     {
@@ -4372,11 +4518,12 @@
     "Ability.UnlockDescription.火焔の車輪.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.物理に強い":
     {
         "jpn":"物理ダメージ5％減",
+		"eng":"Physical damage 5% cut",
     },
     "Ability.Description.物理に強い":
     {
@@ -4386,6 +4533,7 @@
     "Ability.UnlockName.物理に強い":
     {
         "jpn":"物理ダメージ5％減",
+		"eng":"Physical damage 5% cut",
     },
     "Ability.UnlockDescription.物理に強い":
     {
@@ -4395,10 +4543,12 @@
     "Ability.物理に強い.2":
     {
         "jpn":"物理ダメージ10％減",
+		"eng":"Physical damage 10% cut",
     },
     "Ability.UnlockName.物理に強い.2":
     {
         "jpn":"物理ダメージ10％減",
+		"eng":"Physical damage 10% cut",
     },
     "Ability.UnlockDescription.物理に強い.2":
     {
@@ -4408,10 +4558,12 @@
     "Ability.物理に強い.3":
     {
         "jpn":"物理ダメージ15％減",
+		"eng":"Physical damage 15% cut",
     },
     "Ability.UnlockName.物理に強い.3":
     {
         "jpn":"物理ダメージ15％減",
+		"eng":"Physical damage 15% cut",
     },
     "Ability.UnlockDescription.物理に強い.3":
     {
@@ -4421,10 +4573,12 @@
     "Ability.物理に強い.4":
     {
         "jpn":"物理ダメージ20％減",
+		"eng":"Physical damage 20% cut",
     },
     "Ability.UnlockName.物理に強い.4":
     {
         "jpn":"物理ダメージ20％減",
+		"eng":"Physical damage 20% cut",
     },
     "Ability.UnlockDescription.物理に強い.4":
     {
@@ -4434,10 +4588,12 @@
     "Ability.物理に強い.5":
     {
         "jpn":"物理ダメージ25％減",
+		"eng":"Physical damage 25% cut",
     },
     "Ability.UnlockName.物理に強い.5":
     {
         "jpn":"物理ダメージ25％減",
+		"eng":"Physical damage 25% cut",
     },
     "Ability.UnlockDescription.物理に強い.5":
     {
@@ -4557,6 +4713,7 @@
     "Ability.SpellText.百万鬼夜行":
     {
         "jpn":"私の酒と技が受けられないってのか！\n百万鬼夜行！",
+		"eng":"Can't handle my sake or moves, you say!\nNight Parade of a Million Demons!",
     },
     "Ability.百万鬼夜行.2":
     {
@@ -4571,7 +4728,7 @@
     "Ability.UnlockDescription.百万鬼夜行.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.百万鬼夜行.3":
     {
@@ -4586,7 +4743,7 @@
     "Ability.UnlockDescription.百万鬼夜行.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.盗む":
     {
@@ -4596,6 +4753,7 @@
     "Ability.Description.盗む":
     {
         "jpn":"相手の装備品を盗む",
+		"eng":"[Steal the enemy's equipment]",
     },
     "Ability.UnlockName.盗む":
     {
@@ -4605,6 +4763,7 @@
     "Ability.UnlockDescription.盗む":
     {
         "jpn":"相手の装備品を盗む",
+		"eng":"[Steal the enemy's equipment]",
     },
     "Ability.CastNamePrefix.盗む":
     {
@@ -4619,6 +4778,7 @@
     "Ability.SpellText.盗む":
     {
         "jpn":"いつ返さないといった？\n永遠に借りておくだけだ！",
+		"eng":"When am I giving it back?\nI'm just borrowing it forever!",
     },
     "Ability.破局の開門":
     {
@@ -4628,6 +4788,7 @@
     "Ability.Description.破局の開門":
     {
         "jpn":"対象への方角によって効果が変化",
+		"eng":"[Effect changes based on facing towards target]",
     },
     "Ability.UnlockName.破局の開門":
     {
@@ -4637,6 +4798,7 @@
     "Ability.UnlockDescription.破局の開門":
     {
         "jpn":"対象への方角によって効果が変化",
+		"eng":"[Effect changes based on facing towards target]",
     },
     "Ability.CastNamePrefix.破局の開門":
     {
@@ -4651,6 +4813,7 @@
     "Ability.SpellText.破局の開門":
     {
         "jpn":"かわらけによりて天運を操り、\n凶星を落とさん！　破局の開門！",
+		"eng":"Controlled fortunes and misfortunes, Gate Opening for Catastrophe!",
     },
     "Ability.破局の開門・朱雀":
     {
@@ -4685,6 +4848,7 @@
     "Ability.SpellText.破局の開門・朱雀":
     {
         "jpn":"かわらけによりて天運を操り、\n凶星を落とさん！　破局の開門！",
+		"eng":"Controlled fortunes and misfortunes, Gate Opening for Catastrophe!",
     },
     "Ability.破局の開門・玄武":
     {
@@ -4719,6 +4883,7 @@
     "Ability.SpellText.破局の開門・玄武":
     {
         "jpn":"かわらけによりて天運を操り、\n凶星を落とさん！　破局の開門！",
+		"eng":"Controlled fortunes and misfortunes, Gate Opening for Catastrophe!",
     },
     "Ability.破局の開門・白虎":
     {
@@ -4753,6 +4918,7 @@
     "Ability.SpellText.破局の開門・白虎":
     {
         "jpn":"かわらけによりて天運を操り、\n凶星を落とさん！　破局の開門！",
+		"eng":"Controlled fortunes and misfortunes, Gate Opening for Catastrophe!",
     },
     "Ability.破局の開門・青竜":
     {
@@ -4787,6 +4953,7 @@
     "Ability.SpellText.破局の開門・青竜":
     {
         "jpn":"かわらけによりて天運を操り、\n凶星を落とさん！　破局の開門！",
+		"eng":"Controlled fortunes and misfortunes, Gate Opening for Catastrophe!",
     },
     "Ability.禁呪詠唱":
     {
@@ -4796,6 +4963,7 @@
     "Ability.Description.禁呪詠唱":
     {
         "jpn":"次のターンまで魔法威力2倍",
+		"eng":"[Magic damage doubled until next turn]",
     },
     "Ability.UnlockName.禁呪詠唱":
     {
@@ -4805,6 +4973,7 @@
     "Ability.UnlockDescription.禁呪詠唱":
     {
         "jpn":"次のターンまで魔法威力2倍",
+		"eng":"[Magic damage doubled until next turn]",
     },
     "Ability.CastNamePrefix.禁呪詠唱":
     {
@@ -4859,7 +5028,7 @@
     "Ability.UnlockDescription.移動アップ":
     {
         "jpn":"",
-        "eng":"",
+        "eng":" ",
     },
     "Ability.移動アップ.2":
     {
@@ -4879,18 +5048,22 @@
     "Ability.竜脈":
     {
         "jpn":"竜脈",
+		"eng":"Energy Flow",
     },
     "Ability.Description.竜脈":
     {
         "jpn":"呪力を増加",
+		"eng":"[Increase JP]",
     },
     "Ability.UnlockName.竜脈":
     {
         "jpn":"竜脈",
+		"eng":"Energy Flow",
     },
     "Ability.UnlockDescription.竜脈":
     {
         "jpn":"呪力を増加",
+		"eng":"[Increase JP]",
     },
     "Ability.CastNamePrefix.竜脈":
     {
@@ -4900,10 +5073,12 @@
     "Ability.CastName.竜脈":
     {
         "jpn":"竜脈",
+		"eng":"Energy Flow",
     },
     "Ability.SpellText.竜脈":
     {
         "jpn":"地の底を這う大いなる竜よ、\n我に力を！竜脈！",
+		"eng":"Great dragon moving through the land, lend me thy energy! Energy Flow!",
     },
     "Ability.聖白蓮":
     {
@@ -4914,6 +5089,7 @@
     "Ability.Description.聖白蓮":
     {
         "jpn":"自身の能力が大幅に上昇",
+		"eng":"[Large increase to own stats]",
     },
     "Ability.UnlockName.聖白蓮":
     {
@@ -4924,6 +5100,7 @@
     "Ability.UnlockDescription.聖白蓮":
     {
         "jpn":"自身の能力が大幅に上昇",
+		"eng":"[Large increase to own stats]",
     },
     "Ability.CastNamePrefix.聖白蓮":
     {
@@ -4939,6 +5116,7 @@
     "Ability.SpellText.聖白蓮":
     {
         "jpn":"この体に全身全霊を込めて！\n極楽への引導！　聖白蓮！",
+		"eng":"I will guide you with all the spirit and energy I have! Hijiri Byakuren!",
     },
     "Ability.花鳥風月、嘯風弄月":
     {
@@ -4973,6 +5151,7 @@
     "Ability.SpellText.花鳥風月、嘯風弄月":
     {
         "jpn":"枯れない花は百花繚乱の光を放つ！\n花鳥風月、嘯風弄月！",
+		"eng":"An unwilting flower radiates as hundreds! The Beauties of Nature!",
     },
     "Ability.花鳥風月、嘯風弄月.2":
     {
@@ -4987,7 +5166,7 @@
     "Ability.UnlockDescription.花鳥風月、嘯風弄月.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.花鳥風月、嘯風弄月.3":
     {
@@ -5002,7 +5181,7 @@
     "Ability.UnlockDescription.花鳥風月、嘯風弄月.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.芳香":
     {
@@ -5012,6 +5191,7 @@
     "Ability.Description.芳香":
     {
         "jpn":"キョンシーを呼び出す",
+		"eng":"[Summons a jiangshi]",
     },
     "Ability.UnlockName.芳香":
     {
@@ -5021,6 +5201,7 @@
     "Ability.UnlockDescription.芳香":
     {
         "jpn":"キョンシーを呼び出す",
+		"eng":"[Summons a jiangshi]",
     },
     "Ability.蓬莱の薬":
     {
@@ -5054,6 +5235,7 @@
     "Ability.SpellText.蓬莱の薬":
     {
         "jpn":"今はとて戦の傷を癒す折ぞ\n君をあはれと思ひ出でける…　蓬莱の薬！",
+		"eng":"Now it is the time to heal these wounds... Hourai Elixer!",
     },
     "Ability.薙ぎ払い":
     {
@@ -5098,6 +5280,7 @@
     "Ability.Description.虚弱":
     {
         "jpn":"スペルカードを連続使用できない",
+		"eng":"[Cannot consecutively cast spellcards]",
     },
     "Ability.UnlockName.虚弱":
     {
@@ -5107,22 +5290,27 @@
     "Ability.UnlockDescription.虚弱":
     {
         "jpn":"スペルカードを連続使用できない",
+		"eng":"[Cannot consecutively cast spellcards]",
     },
     "Ability.見切り":
     {
         "jpn":"見切り",
+		"eng":"Predict",
     },
     "Ability.Description.見切り":
     {
         "jpn":"射撃、接触攻撃をたまに回避",
+		"eng":"[Sometimes evade shooting and melee attacks]",
     },
     "Ability.UnlockName.見切り":
     {
         "jpn":"見切り",
+		"eng":"Predict",
     },
     "Ability.UnlockDescription.見切り":
     {
         "jpn":"射撃、接触攻撃をたまに回避",
+		"eng":"[Sometimes evade shooting and melee attacks]",
     },
     "Ability.CastNamePrefix.見切り":
     {
@@ -5132,6 +5320,7 @@
     "Ability.CastName.見切り":
     {
         "jpn":"見切り",
+		"eng":"Predict",
     },
     "Ability.SpellText.見切り":
     {
@@ -5141,26 +5330,32 @@
     "Ability.見切り.2":
     {
         "jpn":"見切りL2",
+		"eng":"Predict Lv2",
     },
     "Ability.UnlockName.見切り.2":
     {
         "jpn":"見切りL2",
+		"eng":"Predict Lv2",
     },
     "Ability.UnlockDescription.見切り.2":
     {
         "jpn":"発動率アップ",
+		"eng":"[Activation rate up]",
     },
     "Ability.見切り.3":
     {
         "jpn":"見切りL3",
+		"eng":"Predict Lv3",
     },
     "Ability.UnlockName.見切り.3":
     {
         "jpn":"見切りL3",
+		"eng":"Predict Lv3",
     },
     "Ability.UnlockDescription.見切り.3":
     {
         "jpn":"発動率アップ",
+		"eng":"[Activation rate up]",
     },
     "Ability.豪族乱舞":
     {
@@ -5170,6 +5365,7 @@
     "Ability.Description.豪族乱舞":
     {
         "jpn":"布都と屠自古の間に攻撃範囲",
+		"eng":"[Attack area is between Futo and Tojiko]",
     },
     "Ability.UnlockName.豪族乱舞":
     {
@@ -5179,6 +5375,7 @@
     "Ability.UnlockDescription.豪族乱舞":
     {
         "jpn":"布都と屠自古の間に攻撃範囲",
+		"eng":"[Attack area is between Futo and Tojiko]",
     },
     "Ability.CastNamePrefix.豪族乱舞":
     {
@@ -5193,6 +5390,7 @@
     "Ability.SpellText.豪族乱舞":
     {
         "jpn":"君をば天とし、臣をば地とす\nゆえに命ずる！　豪族乱舞！",
+		"eng":"I, who stand at the zenith, and you whom follow! I command! Royal Clan's Chaotic Dance!",
     },
     "Ability.豪族乱舞.2":
     {
@@ -5207,7 +5405,7 @@
     "Ability.UnlockDescription.豪族乱舞.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.豪族乱舞.3":
     {
@@ -5222,7 +5420,7 @@
     "Ability.UnlockDescription.豪族乱舞.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.超高速上海人形":
     {
@@ -5232,6 +5430,7 @@
     "Ability.Description.超高速上海人形":
     {
         "jpn":"行動値を使わず上海人形を呼び出す",
+		"eng":"[Summon Shanghai without costing an action]",
     },
     "Ability.UnlockName.超高速上海人形":
     {
@@ -5241,6 +5440,7 @@
     "Ability.UnlockDescription.超高速上海人形":
     {
         "jpn":"行動値を使わず上海人形を呼び出す",
+		"eng":"[Summon Shanghai without costing an action]",
     },
     "Ability.輝針剣":
     {
@@ -5250,6 +5450,7 @@
     "Ability.Description.輝針剣":
     {
         "jpn":"行動を消費しない",
+		"eng":"[Doesn't cost an action]",
     },
     "Ability.UnlockName.輝針剣":
     {
@@ -5259,6 +5460,7 @@
     "Ability.UnlockDescription.輝針剣":
     {
         "jpn":"行動を消費しない",
+		"eng":"[Doesn't cost an action]",
     },
     "Ability.CastNamePrefix.輝針剣":
     {
@@ -5273,6 +5475,7 @@
     "Ability.SpellText.輝針剣":
     {
         "jpn":"輝く針の剣よ、我ら反逆者の力を\n何度でも示し給え！　輝針剣！",
+		"eng":"O shining needle sword, strength to we whom rebel, guide us! Shining Needle Sword!",
     },
     "Ability.輝針剣.2":
     {
@@ -5287,7 +5490,7 @@
     "Ability.UnlockDescription.輝針剣.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.輝針剣.3":
     {
@@ -5302,12 +5505,12 @@
     "Ability.UnlockDescription.輝針剣.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.防御":
     {
         "jpn":"防御",
-        "eng":"Defense",
+        "eng":"Defend",
     },
     "Ability.Description.防御":
     {
@@ -5317,7 +5520,7 @@
     "Ability.UnlockName.防御":
     {
         "jpn":"防御",
-        "eng":"Defense",
+        "eng":"Defend",
     },
     "Ability.UnlockDescription.防御":
     {
@@ -5347,6 +5550,7 @@
     "Ability.Description.障壁波動（イビルアンジュレーション）":
     {
         "jpn":"ダメージを三回無効化するバリア",
+		"eng":"[A barrier that blocks 3 attacks]",
     },
     "Ability.UnlockName.障壁波動（イビルアンジュレーション）":
     {
@@ -5356,6 +5560,7 @@
     "Ability.UnlockDescription.障壁波動（イビルアンジュレーション）":
     {
         "jpn":"ダメージを三回無効化するバリア",
+		"eng":"[A barrier that blocks 3 attacks]",
     },
     "Ability.CastNamePrefix.障壁波動（イビルアンジュレーション）":
     {
@@ -5370,6 +5575,7 @@
     "Ability.SpellText.障壁波動（イビルアンジュレーション）":
     {
         "jpn":"万物に干渉し、打ち消しあえ！\n障壁波動！",
+		"eng":"Erase all that would interfere! Evil Undulation!",
     },
     "Ability.集合的無意識":
     {
@@ -5379,6 +5585,7 @@
     "Ability.Description.集合的無意識":
     {
         "jpn":"ご先祖様の数に応じて耐性を得る",
+		"eng":"[Gain resistance based on amount of ancestors]",
     },
     "Ability.UnlockName.集合的無意識":
     {
@@ -5388,6 +5595,7 @@
     "Ability.UnlockDescription.集合的無意識":
     {
         "jpn":"ご先祖様の数に応じて耐性を得る",
+		"eng":"[Gain resistance based on amount of ancestors]",
     },
     "Ability.霊力アップ":
     {
@@ -5442,7 +5650,7 @@
     "Ability.霊力アップ.4":
     {
         "jpn":"霊力+4",
-        "eng":"JP Speed +3",
+        "eng":"JP Speed +4",
     },
     "Ability.UnlockName.霊力アップ.4":
     {
@@ -5477,6 +5685,7 @@
     "Ability.Description.霊撃":
     {
         "jpn":"攻撃を回避",
+		"eng":"[Dodge an attack]",
     },
     "Ability.UnlockName.霊撃":
     {
@@ -5486,6 +5695,7 @@
     "Ability.UnlockDescription.霊撃":
     {
         "jpn":"攻撃を回避",
+		"eng":"[Dodge an attack]",
     },
     "Ability.CastNamePrefix.霊撃":
     {
@@ -5510,6 +5720,7 @@
     "Ability.Description.魔彩光の上海人形":
     {
         "jpn":"上海人形を使役して攻撃",
+		"eng":"[Attack through a Shanghai doll]",
     },
     "Ability.UnlockName.魔彩光の上海人形":
     {
@@ -5519,6 +5730,7 @@
     "Ability.UnlockDescription.魔彩光の上海人形":
     {
         "jpn":"上海人形を使役して攻撃",
+		"eng":"[Attack through a Shanghai doll]",
     },
     "Ability.CastNamePrefix.魔彩光の上海人形":
     {
@@ -5533,6 +5745,7 @@
     "Ability.SpellText.魔彩光の上海人形":
     {
         "jpn":"精巧なるしもべたちよ\n主命を果たせ 魔彩光の上海人形！",
+		"eng":"My fine servants, fulfill your goal!\nEerily Luminous Shanghai Dolls!",
     },
     "Ability.魔彩光の上海人形.2":
     {
@@ -5547,7 +5760,7 @@
     "Ability.UnlockDescription.魔彩光の上海人形.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.魔彩光の上海人形.3":
     {
@@ -5562,11 +5775,12 @@
     "Ability.UnlockDescription.魔彩光の上海人形.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.魔法に強い":
     {
         "jpn":"魔法ダメージ5％減",
+		"eng":"Magic damage 5% cut",
     },
     "Ability.Description.魔法に強い":
     {
@@ -5576,6 +5790,7 @@
     "Ability.UnlockName.魔法に強い":
     {
         "jpn":"魔法ダメージ5％減",
+		"eng":"Magic damage 5% cut",
     },
     "Ability.UnlockDescription.魔法に強い":
     {
@@ -5585,10 +5800,12 @@
     "Ability.魔法に強い.2":
     {
         "jpn":"魔法ダメージ10％減",
+		"eng":"Magic damage 10% cut",
     },
     "Ability.UnlockName.魔法に強い.2":
     {
         "jpn":"魔法ダメージ10％減",
+		"eng":"Magic damage 10% cut",
     },
     "Ability.UnlockDescription.魔法に強い.2":
     {
@@ -5598,10 +5815,12 @@
     "Ability.魔法に強い.3":
     {
         "jpn":"魔法ダメージ15％減",
+		"eng":"Magic damage 15% cut",
     },
     "Ability.UnlockName.魔法に強い.3":
     {
         "jpn":"魔法ダメージ15％減",
+		"eng":"Magic damage 15% cut",
     },
     "Ability.UnlockDescription.魔法に強い.3":
     {
@@ -5611,10 +5830,12 @@
     "Ability.魔法に強い.4":
     {
         "jpn":"魔法ダメージ20％減",
+		"eng":"Magic damage 20% cut",
     },
     "Ability.UnlockName.魔法に強い.4":
     {
         "jpn":"魔法ダメージ20％減",
+		"eng":"Magic damage 20% cut",
     },
     "Ability.UnlockDescription.魔法に強い.4":
     {
@@ -5624,10 +5845,12 @@
     "Ability.魔法に強い.5":
     {
         "jpn":"魔法ダメージ25％減",
+		"eng":"Magic damage 25% cut",
     },
     "Ability.UnlockName.魔法に強い.5":
     {
         "jpn":"魔法ダメージ25％減",
+		"eng":"Magic damage 25% cut",
     },
     "Ability.UnlockDescription.魔法に強い.5":
     {
@@ -5782,6 +6005,7 @@
     "Ability.SpellText.黄金の震眩":
     {
         "jpn":"毘沙門天の宝塔に願う\n現世の不浄を払わん！ 黄金の震眩！",
+		"eng":"A wish to Bishamonten's pagoda! Purify all with light! Dazzling Gold!",
     },
     "Ability.黄金の震眩.2":
     {
@@ -5796,7 +6020,7 @@
     "Ability.UnlockDescription.黄金の震眩.2":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Ability.黄金の震眩.3":
     {
@@ -5811,7 +6035,7 @@
     "Ability.UnlockDescription.黄金の震眩.3":
     {
         "jpn":"威力上昇",
-        "eng":"Increase power",
+        "eng":"[Increase power]",
     },
     "Article.わら人形":
     {
@@ -5831,6 +6055,7 @@
     "Article.Description.クイックシルバー":
     {
         "jpn":"アビリティ使用回数+1 咲夜専用",
+		"eng":"Abilities gain +1 use, for Sakuya",
     },
     "Article.スターソード":
     {
@@ -5840,7 +6065,7 @@
     "Article.Description.スターソード":
     {
         "jpn":"攻撃+10％ ブロック 白蓮専用",
-        "eng":"Attack +10% Parry Byakuren",
+        "eng":"Attack +10%, Parry, for Byakuren",
     },
     "Article.ソノシート":
     {
@@ -5850,6 +6075,7 @@
     "Article.Description.ソノシート":
     {
         "jpn":"音楽を聴ける",
+		"eng":"Can listen to music",
     },
     "Article.トリモチ":
     {
@@ -5859,6 +6085,7 @@
     "Article.Description.トリモチ":
     {
         "jpn":"鳥を捕まえる罠",
+		"eng":"A trap for catching birds",
     },
     "Article.ハイソックス":
     {
@@ -5908,16 +6135,17 @@
     "Article.Description.リボン":
     {
         "jpn":"魔法ダメージ10％減",
+		"eng":"Magic damage 10% cut",
     },
     "Article.七星剣":
     {
         "jpn":"七星剣",
-        "eng":"Shichiseiken",
+        "eng":"Seven Star Sword",
     },
     "Article.Description.七星剣":
     {
         "jpn":"攻撃+15％ 神子専用",
-        "eng":"Attack +15% Miko"
+        "eng":"Attack +15%, for Miko"
     },
     "Article.向日葵":
     {
@@ -5927,25 +6155,27 @@
     "Article.Description.向日葵":
     {
         "jpn":"使用すると必殺が1上昇",
+		"eng":"Increase Critical by 1 upon use",
     },
     "Article.宝塔":
     {
         "jpn":"宝塔",
-        "eng":"Houtou",
+        "eng":"Pagoda",
     },
     "Article.Description.宝塔":
     {
         "jpn":"星専用",
+		"eng":"For Shou",
     },
     "Article.座布団":
     {
         "jpn":"座布団",
-        "eng":"Zabuton",
+        "eng":"Cushion",
     },
     "Article.Description.座布団":
     {
         "jpn":"命中+50 移動-1",
-        "eng":"Accuracy +50 Move -1"
+        "eng":"Accuracy +50, Move -1"
     },
     "Article.彼岸花":
     {
@@ -5955,6 +6185,7 @@
     "Article.Description.彼岸花":
     {
         "jpn":"使用すると敏捷が1上昇",
+		"eng":"Increase Agility by 1 upon use",
     },
     "Article.日傘":
     {
@@ -5964,6 +6195,7 @@
     "Article.Description.日傘":
     {
         "jpn":"光ダメージ50％減",
+		"eng":"Light damage 50% cut",
     },
     "Article.晴明判紋":
     {
@@ -5973,16 +6205,17 @@
     "Article.Description.晴明判紋":
     {
         "jpn":"物理ダメージ10％減",
+		"eng":"Physical damage 10% cut",
     },
     "Article.月の砂":
     {
         "jpn":"月の砂",
-        "eng":"Moon regolith",
+        "eng":"Moon sand",
     },
     "Article.Description.月の砂":
     {
         "jpn":"二回行動 永琳専用",
-        "eng":"Double Action Eirin"
+        "eng":"Double Action, for Eirin"
     },
     "Article.桃":
     {
@@ -5992,6 +6225,7 @@
     "Article.Description.桃":
     {
         "jpn":"使用するとHPが1上昇",
+		"eng":"Increase HP by 1 upon use",
     },
     "Article.桜":
     {
@@ -6001,6 +6235,7 @@
     "Article.Description.桜":
     {
         "jpn":"使用すると命中が1上昇",
+		"eng":"Increase Accuracy by 1 upon use",
     },
     "Article.火廼要慎":
     {
@@ -6010,6 +6245,7 @@
     "Article.Description.火廼要慎":
     {
         "jpn":"熱ダメージ50％減",
+		"eng":"Fire damage 50% cut",
     },
     "Article.爻辞棒":
     {
@@ -6029,7 +6265,7 @@
     "Article.Description.生きてるホウキ":
     {
         "jpn":"攻撃+10％ 移動+1 魔理沙専用",
-        "eng":"Attack +10% Move +1 Marisa"
+        "eng":"Attack +10%, Move +1, for Marisa"
     },
     "Article.紅葉":
     {
@@ -6039,6 +6275,7 @@
     "Article.Description.紅葉":
     {
         "jpn":"使用すると回避が1上昇",
+		"eng":"Increase Evade by 1 upon use",
     },
     "Article.赤い靴":
     {
@@ -6063,11 +6300,12 @@
     "Article.鈴蘭":
     {
         "jpn":"鈴蘭",
-        "eng":"Lily of the valley",
+        "eng":"Suzuran",
     },
     "Article.Description.鈴蘭":
     {
         "jpn":"使用すると攻撃が1上昇",
+		"eng":"Increase Attack by 1 upon use",
     },
     "Article.陰陽玉":
     {
@@ -6099,7 +6337,7 @@
     "Character.ご先祖様":
     {
         "jpn":"ご先祖様？",
-        "eng":"?",
+        "eng":"Ancestor?",
     },
     "Character.さとり":
     {
@@ -6285,7 +6523,7 @@
     "Character.魔本":
     {
         "jpn":"魔本",
-        "eng":"LivingBook",
+        "eng":"Grimoire",
     },
     "Character.魔理沙":
     {
@@ -6318,7 +6556,7 @@
     "Element.魔法":
     {
         "jpn":"魔法",
-        "eng":"Magical"
+        "eng":"Magic"
     },
     "Element.熱":
     {
@@ -6333,32 +6571,32 @@
     "Element.無効":
     {
         "jpn":"{element}無効",
-        "eng":"{element}: No effect",
+        "eng":"Immune to {element}",
     },
     "Element.吸収":
     {
         "jpn":"{element}吸収",
-        "eng":"{element}: Absorb",
+        "eng":"Absorbs {element}",
     },
     "Element.強い":
     {
         "jpn":"{element}に強い",
-        "eng":"{element}: Not very effective",
+        "eng":"Resistant to {element}",
     },
     "Element.弱い":
     {
         "jpn":"{element}に弱い",
-        "eng":"{element}: Effective",
+        "eng":"Weak to {element}",
     },
     "Element.超強い":
     {
         "jpn":"{element}に超強い",
-        "eng":"{element}: Not effective",
+        "eng":"Very resistant to {element}",
     },
     "Element.超弱い":
     {
         "jpn":"{element}に超弱い",
-        "eng":"{element}: Very effective",
+        "eng":"Very weak to {element}",
     },
     "Status.HP":
     {
@@ -6448,11 +6686,12 @@
     "Menu.タイトルに戻る":
     {
         "jpn":"タイトルに戻る",
-        "eng":"Return to the title",
+        "eng":"Return to title",
     },
     "Menu.タイトルに戻る.確認":
     {
         "jpn":"タイトルに戻ります\nセーブしていないデータは失われます",
+		"eng":"Return to Title?\nUnsaved data will be lost.",
     },
     "Menu.タイトルに戻る.確認.はい":
     {
@@ -6502,6 +6741,7 @@
     "Menu.Unit.アビリティ習得.確認ダイアログ":
     {
         "jpn":"{ability}を習得します",
+		"eng":"Do you wish to learn\n {ability}?",
     },
     "Menu.Unit.アビリティ習得.必要アビリティ":
     {
@@ -6511,27 +6751,32 @@
     "Menu.Unit.アビリティ習得.完了ダイアログ":
     {
         "jpn":"{ability}を習得した！",
+		"eng":"{ability} has been learned!",
     },
     "Menu.Unit.アビリティ習得.完了ダイアログ_tipsあり":
     {
         "jpn":"{ability}を習得した！\n「アビリティ装備」で習得したアビリティを装備しよう",
+		"eng":"{ability} has been learned!\nYou should equip it in the ability menu.",
     },
     "Menu.編成.外す":
     {
         "jpn":"外す",
-        "eng":"Unjoin",
+        "eng":"Remove",
     },
     "ステータスアップアイテム.確認":
     {
         "jpn":"{character}に{item}を使いますか？",
+		"eng":"Would you like to use {item} on {character}?",
     },
     "ステータスアップアイテム.結果":
     {
         "jpn":"{status}がアップ！\n{prev}→{next}",
+		"eng":"{status} has increased!\n{prev}→{next}",
     },
     "ステータスアップアイテム.上限":
     {
         "jpn":"これ以上{status}を上げられません",
+		"eng":"{status} can be increased no further.",
     },
     "UnitStatusView.レベル":
     {
@@ -6711,7 +6956,7 @@
     "UnitState.物理耐性":
     {
         "jpn":"物理耐性アップ",
-        "eng":"Hard Armor",
+        "eng":"Armor",
     },
     "UnitState.Short.物理耐性":
     {
@@ -6761,7 +7006,7 @@
     "UnitState.防御":
     {
         "jpn":"防御",
-        "eng":"Defense",
+        "eng":"Defend",
     },
     "UnitState.Short.防御":
     {
@@ -6781,11 +7026,12 @@
     "UnitState.魔法耐性":
     {
         "jpn":"魔法耐性アップ",
-        "eng":"Magic Defense Up",
+        "eng":"Shell",
     },
     "UnitState.Short.魔法耐性":
     {
         "jpn":"耐魔",
+		"eng":"Shell",
     },
     "SaveData.オートセーブ":
     {
@@ -6795,6 +7041,7 @@
     "SaveData.上書き確認":
     {
         "jpn":"上書きしますか？",
+		"eng":"Overwrite?",
     },
     "SaveData.上書き確認.はい":
     {
@@ -6809,14 +7056,17 @@
     "SaveData.はじめから確認":
     {
         "jpn":"セーブデータがありますが、ゲームを最初からはじめますか？",
+		"eng":"Save data already exists,\n would you like to start from the beginning anyways?",
     },
     "SaveData.クリアデータ":
     {
         "jpn":"クリアデータをセーブします",
+		"eng":"Now saving Clear Data",
     },
     "SaveData.クリアデータ.確認":
     {
         "jpn":"クリアデータはセーブしましたか？",
+		"eng":"Did you save your Clear Data?",
     },
     "AbilityWindow.威力":
     {
@@ -6826,7 +7076,7 @@
     "AbilityWindow.ヒット数":
     {
         "jpn":"ヒット数 {value}",
-        "eng":"Hit Count: {value}",
+        "eng":"\nHit Count: {value}",
     },
     "AbilityWindow.呪力コスト":
     {
@@ -6841,11 +7091,12 @@
     "AbilityWindow.属性":
     {
         "jpn":"属性 {elements}",
-        "eng":"Elements: {elements}",
+        "eng":"Type: {elements}",
     },
     "ショップ.購入確認":
     {
         "jpn":"{item}を購入します（{price}円）\n所持数 : {count}",
+		"eng":"Purchasing {item} ({price}円) \nIn Possesion: {count}",
     },
     "ショップ.購入確認.装備数":
     {
@@ -6855,6 +7106,7 @@
     "ステージ選択.開始":
     {
         "jpn":"{stage}\nを開始しますか？",
+		"eng":"Would like you to begin\n{stage}?",
     },
     "Battle.レベルアップ":
     {
@@ -6904,386 +7156,483 @@
     "Battle.ガイド.ステータス確認":
     {
         "jpn":"ステータスを見るユニットを選択してください",
+		"eng":"Select a unit to view their status",
     },
     "Battle.フレンドリーファイア確認":
     {
         "jpn":"攻撃対象に味方ユニットがいます。よろしいですか？",
+		"eng":"There is an ally unit in range. Is that okay?",
     },
     "Chapter.映姫":
     {
         "jpn":"えーきさま危機一髪！",
+		"eng":"Lady Eiki in danger!",
     },
     "Chapter.映姫.1_1":
     {
         "jpn":"フフンふふーん",
+		"eng":"Fufu fu fu fuu~",
     },
     "Chapter.映姫.1_2":
     {
         "jpn":"ちょっと、そこのあなた",
+		"eng":"Hey, you over there.",
     },
     "Chapter.映姫.1_3":
     {
         "jpn":"わたしですか？",
+		"eng":"You mean me?",
     },
     "Chapter.映姫.1_4":
     {
         "jpn":"この女を見なかったかしら？",
+		"eng":"I don't suppose you've seen this woman?",
     },
     "Chapter.映姫.2_1":
     {
         "jpn":"ンー、どっかで見たような？",
+		"eng":"Eh- Think I might've seen her...maybe?",
     },
     "Chapter.映姫.3_1":
     {
         "jpn":"ナヌ",
+		"eng":"What's that?",
     },
     "Chapter.映姫.3_2":
     {
         "jpn":"神社だったかな",
+		"eng":"Maybe the shrine?",
     },
     "Chapter.映姫.3_3":
     {
         "jpn":"神社……神社か……\n小町のいそうなところね",
+		"eng":"The shrine... Definently seems like the kind of place Komachi would go.",
     },
     "Chapter.映姫.3_4":
     {
         "jpn":"お役に立てたかしら？",
+		"eng":"I wonder if I was helpful?",
     },
     "Chapter.映姫.4_1":
     {
         "jpn":"ギャフン！",
+		"eng":"Well that smarts...",
     },
     "Chapter.映姫.4_2":
     {
         "jpn":"とばっちりね……今日はもう寝よう",
+		"eng":"Really. We should rest for today.",
     },
     "Chapter.映姫.4_3":
     {
         "jpn":"何を言ってるんですか、これは一大事ですよ",
+		"eng":"What are you saying, this is a very big deal.",
     },
     "Chapter.映姫.4_4":
     {
         "jpn":"妖怪たちが徒党を組んで、\n閻魔のシャクを奪ったんです",
+		"eng":"These youkai have formed some group and stolen the Enma's shaku.",
     },
     "Chapter.映姫.4_5":
     {
         "jpn":"いったい、何を企んでいるのか……",
+		"eng":"Just what are they planning...",
     },
     "Chapter.映姫.4_6":
     {
         "jpn":"悪夢のようだわ……",
+		"eng":"It's like some nightmare...",
     },
     "Chapter.映姫.5_1":
     {
         "jpn":"というわけで、小町は来てないかしら？",
+		"eng":"...So have you seen Komachi around?",
     },
     "Chapter.映姫.5_2":
     {
         "jpn":"いない",
+		"eng":"Nope.",
     },
     "Chapter.映姫.5_3":
     {
         "jpn":"匿ってもためになりませんよ",
+		"eng":"Covering for her will do you no good.",
     },
     "Chapter.映姫.5_4":
     {
         "jpn":"まさかでしょ！",
+		"eng":"As if I would!",
     },
     "Chapter.映姫.5_5":
     {
         "jpn":"やれやれ、無駄足でしたね",
+		"eng":"Well I suppose I've wasted my time in coming here.",
     },
     "Chapter.映姫.6_1":
     {
         "jpn":"ンニャ……そうでもないぞ",
+		"eng":"Well that's not exactly true.",
     },
     "Chapter.映姫.6_2":
     {
         "jpn":"ナニ？",
+		"eng":"What?",
     },
     "Chapter.映姫.6_3":
     {
         "jpn":"わたしらが、あんたに用があるのさ！",
+		"eng":"Because -we- have business with you!",
     },
     "Chapter.映姫.6_4":
     {
         "jpn":"なんだなんだ",
+		"eng":"What's going on here?",
     },
     "Chapter.映姫.6_5":
     {
         "jpn":"今日の用事は……",
+		"eng":"And what we want today is-",
     },
     "Chapter.映姫.6_6":
     {
         "jpn":"頂戴する！",
+		"eng":"It!",
     },
     "Chapter.映姫.6_7":
     {
         "jpn":"えっ",
+		"eng":"Eh-",
     },
     "Chapter.映姫.6_8":
     {
         "jpn":"えっ",
+		"eng":"Eh-",
     },
     "Chapter.映姫.6_9":
     {
         "jpn":"……おぬしのシャクをな、\n頂きに来たんじゃよ",
+		"eng":"....We've come to claim your shaku!",
     },
     "Chapter.映姫.6_10":
     {
         "jpn":"あ、ああ",
+		"eng":"Oh.",
     },
     "Chapter.映姫.6_11":
     {
         "jpn":"シャク？\nあげるわけ、ないじゃないですか",
+		"eng":"My shaku?\nAs if I would hand that over.",
     },
     "Chapter.映姫.6_12":
     {
         "jpn":"しかし、こちらが4人でそちらは2人\n少々、風向きが悪いのではありません？",
+		"eng":"But their are 4 of us, and only 2 of you. Bad odds, are they not?",
     },
     "Chapter.映姫.6_13":
     {
         "jpn":"あたしもカウントされてんのかー……",
+		"eng":"Are you counting me in that?",
     },
     "Chapter.映姫.6_14":
     {
         "jpn":"しゃらくさい",
+		"eng":"How cold of you Reimu.",
     },
     "Chapter.映姫.6_15":
     {
         "jpn":"烏合の衆が何するものぞ\n かかって来るがいい！",
+		"eng":"It does not matter how many of you there are. Do your worst!",
     },
     "Chapter.小町":
     {
         "jpn":"激突！小町VS映姫",
+		"eng":"Clash！Komachi VS Eiki",
     },
     "Chapter.小町.1_1":
     {
         "jpn":"で、これからどーすんの？",
+		"eng":"Soo, what do we do now?",
     },
     "Chapter.小町.1_2":
     {
         "jpn":"そうですね、さしあたりは……",
+		"eng":"Well the first thing that comes to mind...",
     },
     "Chapter.小町.1_3":
     {
         "jpn":"仕返ししましょう",
+		"eng":"We should get revenge.",
     },
     "Chapter.小町.1_4":
     {
         "jpn":"賛成",
+		"eng":"Agreed.",
     },
     "Chapter.小町.1_5":
     {
         "jpn":"そうと決まれば出発……\nん、誰か来たの？",
+		"eng":"With that decided we should...\nHmm, Is that-",
     },
     "Chapter.小町.1_6":
     {
         "jpn":"うぃーっす、仕事サボってやることないし\n茶でも……",
+		"eng":"Yo, I'm currently slacking, nothing better to do so why not have some tea or-",
     },
     "Chapter.小町.1_7":
     {
         "jpn":"あ",
+		"eng":"Ah-",
     },
     "Chapter.小町.1_8":
     {
         "jpn":"あ゛",
+		"eng":"Ah-",
     },
     "Chapter.小町.1_9":
     {
         "jpn":"……四季さまもサボりですかい、\nこいつは珍しい……",
+		"eng":"Lady Eiki is slacking off too, huh.\n That's pretty different.",
     },
     "Chapter.小町.1_10":
     {
         "jpn":"飛んで火にいるなんとやら",
+		"eng":"What's that saying again? Out of the frying pan and into the fire?.",
     },
     "Chapter.小町.1_11":
     {
         "jpn":"成敗！",
+		"eng":"Judgement!",
     },
     "Chapter.小町.2_1":
     {
         "jpn":"まさか勝てるなんて……\nしっかりしてくださいよ",
+		"eng":"Didn't actually think I'd win...\n Please try harder.",
     },
     "Chapter.小町.2_2":
     {
         "jpn":"う、うるさいっ\nさっきの戦闘で本調子じゃないんですよ",
+		"eng":"Quiet you. I wasn't at my best this time.",
     },
     "Chapter.小町.3_1":
     {
         "jpn":"ええっ、シャクを取られた！？",
+		"eng":"Ehh, they took your shaku!?",
     },
     "Chapter.小町.3_2":
     {
         "jpn":"こりゃクビですか？",
+		"eng":"So you're totally getting fired, right?",
     },
     "Chapter.小町.3_3":
     {
         "jpn":"いや、そこまでの問題でもないんですが",
+		"eng":"Well, it's not that big of a deal exactly.",
     },
     "Chapter.小町.3_4":
     {
         "jpn":"ちぇっ",
+		"eng":"Darn.",
     },
     "Chapter.小町.3_5":
     {
         "jpn":"こーまーちー！",
+		"eng":"Komachi!!",
     },
     "Chapter.小町.3_6":
     {
         "jpn":"キャッキャッ",
+		"eng":"Kyaa-",
     },
     "Chapter.小町.3_7":
     {
         "jpn":"……やってらんねえ",
+		"eng":"I can't watch this.",
     },
     "Chapter.博麗神社":
     {
         "jpn":"博麗神社",
+		"eng":"Hakurei Shrine",
     },
     "Chapter.針妙丸":
     {
         "jpn":"ちいさないきもの",
+		"eng":"Little One",
     },
     "Chapter.針妙丸.1_1":
     {
         "jpn":"あなたが噂の閻魔さま",
+		"eng":"So you're the Enma I've heard about.",
     },
     "Chapter.針妙丸.1_2":
     {
         "jpn":"シャクをとられたと噂の閻魔さまね",
+		"eng":"The Enma, who had her shaku taken,\nthat is.",
     },
     "Chapter.針妙丸.1_3":
     {
         "jpn":"ぐ",
+		"eng":"Uuu-",
     },
     "Chapter.針妙丸.1_4":
     {
         "jpn":"さすが田舎、噂が広がるのが早い",
+		"eng":"That's the country for you.\nRumors travel fast.",
+		
     },
     "Chapter.針妙丸.1_5":
     {
         "jpn":"くだんのシャク、さぞかし強力な\nマジックアイテムと見たわ",
+		"eng":"I've decided that your shaku must be quite the magical item.",
     },
     "Chapter.針妙丸.1_6":
     {
         "jpn":"この機にわたしが手に入れて、\n魔力の足しにしてやる",
+		"eng":"I may as well take this chance, and obtain it for myself.",
     },
     "Chapter.針妙丸.1_7":
     {
         "jpn":"なーるほど、そういう魂胆ですか",
+		"eng":"I see, so those are your intentions.",
     },
     "Chapter.針妙丸.1_8":
     {
         "jpn":"悪いけど、\nあなたたちにはここで退場してもらうわ！",
+		"eng":"Sorry, but I can't let you go any further!",
     },
     "Chapter.針妙丸.2_1":
     {
         "jpn":"実際のところ、あのシャクは\nそこまで強力なものでもないんですが",
+		"eng":"Actually, the shaku isn't really that strong of an item.",
     },
     "Chapter.針妙丸.2_2":
     {
         "jpn":"えっ、そーなの！？",
+		"eng":"Eh, really!?",
     },
     "Chapter.針妙丸.2_3":
     {
         "jpn":"じゃあ、なんでとられたのさ？",
+		"eng":"Well then why would they take it?",
     },
     "Chapter.針妙丸.2_4":
     {
         "jpn":"それが、今回の事件の最大の謎\nと言ったところですね",
+		"eng":"I suppose you could say that's the biggest mystery of this entire incident.",
     },
     "Chapter.針妙丸.2_5":
     {
         "jpn":"またまたー、恨みを買ってるからに\n決まってるじゃあないですか",
+		"eng":"Isn't that just because everybody's got a grudge against you?",
     },
     "Chapter.針妙丸.2_6":
     {
         "jpn":"小町！",
+		"eng":"Komachi!",
     },
     "Chapter.針妙丸.2_7":
     {
         "jpn":"きゃん！",
+		"eng":"Kyan!",
     },
     "Chapter.針妙丸.3_1":
     {
         "jpn":"四季さま、ああいう奴には、ヒット数の多いアビリティで攻撃するのが良いですよ",
+		"eng":"Lady Eiki, you should use multi-hit attacks on this kind of enemy.",
     },
     "Chapter.針妙丸.3_2":
     {
         "jpn":"委細承知！",
+		"eng":"Understood!",
     },
     "Chapter.魔理沙":
     {
         "jpn":"敵か味方か霧雨魔理沙",
+		"eng":"Kirisame Marisa: Friend or Foe",
     },
     "Chapter.魔理沙.1_1":
     {
         "jpn":"なんだお前ら、そんな連れだって",
+		"eng":"What's up with you guys? That's an interesting group.",
     },
     "Chapter.魔理沙.1_2":
     {
         "jpn":"それが、かくかくしかじかの",
+		"eng":"Well you see, *whisper whisper*",
     },
     "Chapter.魔理沙.1_3":
     {
         "jpn":"マルマルウマウマで、\nなるほど、だいたいわかった",
+		"eng":"*mumble mumble*\n Ah, yeah, I think I got it.",
     },
     "Chapter.魔理沙.1_4":
     {
         "jpn":"妖怪どもがそうまでして欲しがる\nマジックアイテムか……おもしろい",
+		"eng":"A magic item that youkai would go so far to get....Interesting.",
     },
     "Chapter.魔理沙.1_5":
     {
         "jpn":"一枚かませてもらおう",
+		"eng":"I'll show them a thing or two.",
     },
     "Chapter.魔理沙.1_6":
     {
         "jpn":"なーんか、たくらんでない？",
+		"eng":"You're not planning anything are you?",
     },
     "Chapter.魔理沙.1_7":
     {
         "jpn":"怪しい",
+		"eng":"Weird...",
     },
     "Chapter.魔理沙.1_8":
     {
         "jpn":"ウソくさい",
+		"eng":"Smells fishy.",
     },
     "Chapter.魔理沙.1_9":
     {
         "jpn":"なに、この白黒の魔法使いの力、\nいらないというのか？！",
+		"eng":"What, you mean to say you don't need the power of this Black-White Magician?",
     },
     "Chapter.魔理沙.1_10":
     {
         "jpn":"それなら、勝手にやらせてもらうけど……",
+		"eng":"Well then, I'll just do what I want anyways, but...",
     },
     "Chapter.魔理沙.1_11":
     {
         "jpn":"まずは競合相手らしく、\n妨害させてもらうぜ！",
+		"eng":"As any friendly competitor would, time to get in your way!",
     },
     "Chapter.魔理沙.2_1":
     {
         "jpn":"しくじったか",
+		"eng":"That...wasn't suppose to go like that.",
     },
     "Chapter.魔理沙.2_2":
     {
         "jpn":"こんな調子なら、目の届く範囲に置いとくほうがマシではあるわね",
+		"eng":"At this rate, it'd be better to keep her where we can see her.",
     },
     "Chapter.魔理沙.2_3":
     {
         "jpn":"一理ある",
+		"eng":"Makes sense.",
     },
     "Chapter.魔理沙.2_4":
     {
         "jpn":"へへっそうこなくちゃあな……！",
+		"eng":"Hehe, that's what I'm talking about!",
     },
     "Chapter.魔理沙.2_5":
     {
         "jpn":"ま、火力はまかせときな。\n大妖怪でもぶっとばして見せらあ",
+		"eng":"Well you can just leave the firepower to me. I can blast away any old youkai.",
     },
     "Chapter.魔理沙.2_6":
     {
         "jpn":"良いのかなー？",
+		"eng":"Is this gonna be okay...?",
     },
     "Chapter.霖之助":
     {
@@ -7292,1813 +7641,2267 @@
     "Chapter.霖之助.1_1":
     {
         "jpn":"いらっしゃい\n珍しいお客さんだ",
+		"eng":"Welcome!\nWell this is quite the unusual customer.",
     },
     "Chapter.霖之助.1_2":
     {
         "jpn":"まさかって感じですが\nシャクが置いてたりはしないようですね",
+		"eng":"Not to get my hopes up, but you wouldn't happen to have a shaku here?",
     },
     "Chapter.霖之助.1_3":
     {
         "jpn":"あいにくだね",
+		"eng":"Unfortunately not.",
     },
     "Chapter.霖之助.1_4":
     {
         "jpn":"ま、何か役に立つものがあるかもしれないし、ちょっと見てみましょう",
+		"eng":"Well, maybe something here could be useful, let's have a little look.",
     },
     "Chapter.霖之助.2_1":
     {
         "jpn":"いらっしゃい",
+		"eng":"Welcome!",
     },
     "Chapter.霖之助.3_1":
     {
         "jpn":"あ、あれは……\nまさか、ほ　う　と　う？",
+		"eng":"That's....\nThat's....the pagoda...",
     },
     "Chapter.パチュリー":
     {
         "jpn":"燃える大図書館",
+		"eng":"Great Library in Flames",
     },
     "Chapter.パチュリー.1_1":
     {
         "jpn":"紅魔館……",
+		"eng":"The Scarlet Devil Mansion...",
     },
     "Chapter.パチュリー.1_2":
     {
         "jpn":"ここのことならよく知ってるぜ\n勝手知ったるなんとやら。こっちだ！",
+		"eng":"Oh, I know -all- about this place. C'mon, this way!",
     },
     "Chapter.パチュリー.2_1":
     {
         "jpn":"ふー",
+		"eng":"Fuu-",
     },
     "Chapter.パチュリー.2_2":
     {
         "jpn":"すごい魔法ね",
+		"eng":"What incredible magic.",
     },
     "Chapter.パチュリー.2_3":
     {
         "jpn":"もうすぐ、この魔法が完成すれば……\n大発明になるわ",
+		"eng":"And soon, when it's finished, it'll be a great discovery.",
     },
     "Chapter.パチュリー.2_4":
     {
         "jpn":"あとひとがんばりね",
+		"eng":"Just one more push.",
     },
     "Chapter.パチュリー.2_5":
     {
         "jpn":"そのためには、精神を集中する必要がある",
+		"eng":"And that's why we need to focus.",
     },
     "Chapter.パチュリー.2_6":
     {
         "jpn":"少しでも乱してはならない。\n音を立てたりしてはならない……！",
+		"eng":"No disturbances. Not even the slightest of noises can be allowed.",
     },
     "Chapter.パチュリー.2_7":
     {
         "jpn":"誰も来ないように、\n戸締りをしておいているから大丈夫よ",
+		"eng":"It should be fine. I made sure to close up so that we aren't disturbed",
     },
     "Chapter.パチュリー.3_1":
     {
         "jpn":"およ？道を間違えたかな？",
+		"eng":"Oh? Did I take the wrong path?",
     },
     "Chapter.パチュリー.3_2":
     {
         "jpn":"やれやれ、図書館に用事はありませんよ\nしらじらしい",
+		"eng":"Come now, we have no business in the library.",
     },
     "Chapter.パチュリー.3_3":
     {
         "jpn":"……",
+		"eng":"....",
     },
     "Chapter.パチュリー.3_4":
     {
         "jpn":"……",
+		"eng":"....",
     },
     "Chapter.パチュリー.3_5":
     {
         "jpn":"うーん、通り抜けできないな？\n普段ならここが開くんだが",
+		"eng":"Hmm...wonder if we can get through here. This spot is usually open, but-",
     },
     "Chapter.パチュリー.3_6":
     {
         "jpn":"……怒！",
+		"eng":"...Nrgh!",
     },
     "Chapter.パチュリー.4_1":
     {
         "jpn":"むきゅ",
+		"eng":"Mukyuu",
     },
     "Chapter.パチュリー.4_2":
     {
         "jpn":"不幸な、事故だったな",
+		"eng":"That was an...unfortunate, uh, mistunderstanding.",
     },
     "Chapter.パチュリー.4_3":
     {
         "jpn":"一体なんでこんなことに？",
+		"eng":"How exactly did it come to this?",
     },
     "Chapter.パチュリー.4_4":
     {
         "jpn":"ええと、それはですね……",
+		"eng":"Well you see....",
     },
     "Chapter.パチュリー.5_1":
     {
         "jpn":"レミィがそんな……どっかの泥棒みたいなゲスに落ちたなんて……",
+		"eng":"So Remi did...so she's ended up like some certain awful thief...",
     },
     "Chapter.パチュリー.5_2":
     {
         "jpn":"まったくもって、許しがたい",
+		"eng":"Indeed. Not something that's easily forgiven.",
     },
     "Chapter.パチュリー.5_3":
     {
         "jpn":"それはともかく、そんなおもしろいものが手に入ったなら一言言って欲しいわ",
+		"eng":"Either way, if she'd obtained something so interesting she could've mentioned it.",
     },
     "Chapter.パチュリー.5_4":
     {
         "jpn":"そこなの？",
+		"eng":"That's why you're upset?",
     },
     "Chapter.パチュリー.5_5":
     {
         "jpn":"付き合いの悪い友人には、ちょっとお灸を据えなくちゃあね",
+		"eng":"Friends who don't -understand- must be reprimanded.",
     },
     "Chapter.パチュリー.6_1":
     {
         "jpn":"うん？なんでお前もついてくるんだ？",
+		"eng":"Huh? What are you following us for?",
     },
     "Chapter.パチュリー.6_2":
     {
         "jpn":"えっ",
+		"eng":"Eh-",
     },
     "Chapter.咲夜":
     {
         "jpn":"悪魔の手先のおもてなし",
+		"eng":"Hospitality of Devil's Servant",
+		
     },
     "Chapter.咲夜.1_1":
     {
         "jpn":"この館、ずいぶん広いねえ",
+		"eng":"This mansion is like, really big.",
     },
     "Chapter.咲夜.1_2":
     {
         "jpn":"それはあんたが小っちゃいから……\nというわけでもなさそうね",
+		"eng":"That's just because you're tiny...\nOkay, well not exactly.",
     },
     "Chapter.咲夜.1_3":
     {
         "jpn":"おや、みなさん大勢でどちらに？",
+		"eng":"And now where exactly would this large group be headed?",
     },
     "Chapter.咲夜.1_4":
     {
         "jpn":"館の主人に会わせてもらうわ",
+		"eng":"Take us to the head of this mansion.",
     },
     "Chapter.咲夜.1_5":
     {
         "jpn":"アポイトメントはございますか？",
+		"eng":"And do you have an appointment?",
     },
     "Chapter.咲夜.1_6":
     {
         "jpn":"アポ",
+		"eng":"Well we-",
     },
     "Chapter.咲夜.1_7":
     {
         "jpn":"あるわけないじゃん？",
+		"eng":"Of course we don't.",
     },
     "Chapter.咲夜.1_8":
     {
         "jpn":"というわけで",
+		"eng":"And so we-",
     },
     "Chapter.咲夜.1_9":
     {
         "jpn":"不逞の輩に、跨ぐ敷居はなくてよ",
+		"eng":"I'm afraid we have no red carpet to lay out for those who don't follow the rules.",
     },
     "Chapter.咲夜.1_10":
     {
         "jpn":"押し通る！",
+		"eng":"Break through!",
     },
     "Chapter.咲夜.2_1":
     {
         "jpn":"くっ、だがお嬢さまの手にかかれば、あなた方など……",
+		"eng":"B-but you lot won't stand a chance against the mistress...",
     },
     "Chapter.レミリア":
     {
         "jpn":"決戦！紅魔館",
+		"eng":"Decisive Battle! Scarlet Devil Mansion",
     },
     "Chapter.レミリア.1_1":
     {
         "jpn":"四季さま、表から入ってもメンドーが起こりそうだし、裏から入りましょ",
+		"eng":"Lady Eiki, using the front door would cause problems, let's use the back.",
     },
     "Chapter.レミリア.1_2":
     {
         "jpn":"それもそですね",
+		"eng":"I suppose you're right.",
     },
     "Chapter.レミリア.2_1":
     {
         "jpn":"シャクを返していただきます！",
+		"eng":"I'll be taking my shaku back now!",
     },
     "Chapter.レミリア.2_2":
     {
         "jpn":"ちっ",
+		"eng":"Che-",
     },
     "Chapter.レミリア.3_1":
     {
         "jpn":"さて、それでこいつの始末はどうすんの？",
+		"eng":"Well now, what do we do with this one?",
     },
     "Chapter.レミリア.3_2":
     {
         "jpn":"……",
+		"eng":"....",
     },
     "Chapter.レミリア.3_3":
     {
         "jpn":"んー、そうですね",
+		"eng":"Hmm....Well then-",
     },
     "Chapter.レミリア.4_1":
     {
         "jpn":"判決",
+		"eng":"The verdict is...",
     },
     "Chapter.レミリア.4_2":
     {
         "jpn":"仲間に入れる",
+		"eng":"Recruit!",
     },
     "Chapter.レミリア.4_3":
     {
         "jpn":"自宅謹慎！",
+		"eng":"Home arrest!",
     },
     "Chapter.レミリア.5_1":
     {
         "jpn":"意外ね。てっきり、大人しくしてろと\nでも言われるかと思ったわ",
+		"eng":"Unexpected. I would've thought you'd tell me to stay put for sure.",
     },
     "Chapter.レミリア.5_2":
     {
         "jpn":"ま、とりあえずモノは戻ってきたし、\n良しとしましょう",
+		"eng":"Well, what's been taken has been returned. I can be fine with this.",
     },
     "Chapter.レミリア.5_3":
     {
         "jpn":"お嬢さま、そろそろ本日のお茶のお時間ですが……",
+		"eng":"My lady, it is about time for today's tea...",
     },
     "Chapter.レミリア.5_4":
     {
         "jpn":"予定変更するわ、これから外出！",
+		"eng":"Change of plans, I'm going out!",
     },
     "Chapter.レミリア.5_5":
     {
         "jpn":"かしこまりましたわ",
+		"eng":"Understood.",
     },
     "Chapter.レミリア.5_6":
     {
         "jpn":"せっかくだからこの事件の顛末、この目で見届けてやるわ！",
+		"eng":"This will be the perfect chance to see how this incident ends!",
     },
     "Chapter.レミリア.6_1":
     {
         "jpn":"しばらく大人しくしといてもらいます",
+		"eng":"I'll have you stay here for the time being.",
     },
     "Chapter.レミリア.6_2":
     {
         "jpn":"この事件。まだ何か裏がある気がする",
+		"eng":"It feels like theirs something else going on behind the scenes of this incident.",
     },
     "Chapter.レミリア.6_3":
     {
         "jpn":"それでは、ティータイムは長めにいたしましょうか、お嬢さま",
+		"eng":"Perhaps an extended tea time is in order today, my lady.",
     },
     "Chapter.レミリア.6_4":
     {
         "jpn":"気が利くわ……ま、せいぜいがんばることね",
+		"eng":"How...nice. Well, do your best out there.",
     },
     "Chapter.レミリア.7_1":
     {
         "jpn":"来たか……閻魔！",
+		"eng":"You've come, Enma!",
     },
     "Chapter.レミリア.7_2":
     {
         "jpn":"シャクを返していただきます",
+		"eng":"I've come to take back my shaku.",
     },
     "Chapter.レミリア.7_3":
     {
         "jpn":"返せないと言ったら？",
+		"eng":"If I refuse?",
     },
     "Chapter.レミリア.7_4":
     {
         "jpn":"倒す",
+		"eng":"I'll have to defeat you.",
     },
     "Chapter.レミリア.7_5":
     {
         "jpn":"やってみるがいいわ……できるものなら",
+		"eng":"Well why don't you try....if you can.",
     },
     "Chapter.レミリア.8_1":
     {
         "jpn":"うわ、なんだこいつら！\nどっから入ってきた！？",
+		"eng":"Uwaa, where did they even come from!?",
     },
     "Chapter.レミリア.8_2":
     {
         "jpn":"覚悟！",
+		"eng":"Prepare yourself!",
     },
     "Chapter.レミリア.8_3":
     {
         "jpn":"ええい、しゃらくさい、であえ、であえーい！",
+		"eng":"W-well do your worst, bring it!",
     },
     "Chapter.紅魔館":
     {
         "jpn":"紅魔館",
+		"eng":"Scarlet Devil Mansion",
     },
     "Chapter.燐":
     {
         "jpn":"突撃！地霊殿",
+		"eng":"Charge! Palace of Earth Spirits",
     },
     "Chapter.燐.1_1":
     {
         "jpn":"うーん、ここにもいないか……",
+		"eng":"Mhh, She's not here either...",
     },
     "Chapter.燐.1_2":
     {
         "jpn":"何をやってるの",
+		"eng":"What are you doing?",
     },
     "Chapter.燐.1_3":
     {
         "jpn":"こいしさまを探しているのさ。\nでも見つかるかは望み薄っぽいなあ",
+		"eng":"I'm looking for Lady Koishi. Things aren't exactly looking too good though.",
     },
     "Chapter.燐.1_4":
     {
         "jpn":"ああ、それなら、\n地上の神社近くで見ましたよ",
+		"eng":"Oh, if that's all, I saw her nearby the shrine on the surface.",
     },
     "Chapter.燐.1_5":
     {
         "jpn":"！　そいつはありがたい。\nんじゃま、さっそく地上にしゅっぱつ……",
+		"eng":"!! Thanks a ton.\nGuess I'm heading to the surf-",
     },
     "Chapter.燐.1_6":
     {
         "jpn":"ちょっと待った、あなたのところの\n地獄鴉に用があってきたんですが",
+		"eng":"Just one moment. I've actually got business with your hell raven.",
     },
     "Chapter.燐.1_7":
     {
         "jpn":"げっ",
+		"eng":"Ge-",
     },
     "Chapter.燐.1_8":
     {
         "jpn":"げっ\nって、まだ、何も言ってない……",
+		"eng":"What do you mean by that, I haven't said anything yet.",
     },
     "Chapter.燐.1_9":
     {
         "jpn":"聞かなくてもわかる\nどうせお空が何かやらかしたんだ！",
+		"eng":"You don't have to say anything.\nClearly Okuu's done something!",
     },
     "Chapter.燐.1_10":
     {
         "jpn":"鋭いなー",
+		"eng":"Pretty sharp.",
     },
     "Chapter.燐.1_11":
     {
         "jpn":"このまま帰すわけには、いかないね！！",
+		"eng":"I can't just let you leave!",
     },
     "Chapter.燐.2_1":
     {
         "jpn":"この調子だと、先に主人に会っておくほうが、丸く収まりそうね",
+		"eng":"With things like this, meeting the master first might solve things quicker.",
     },
     "Chapter.燐.2_2":
     {
         "jpn":"いやあ、もう面倒だし、一直線に決着つけにいきましょ",
+		"eng":"No, things are annoying enough already. Let's take it straight and simple.",
     },
     "Chapter.燐.2_3":
     {
         "jpn":"さて、どうしたものか……",
+		"eng":"Well then, what should we do...",
     },
     "Chapter.さとり":
     {
         "jpn":"VSさとり",
+		"eng":"VS Satori",
     },
     "Chapter.さとり.1_1":
     {
         "jpn":"と、いうわけで、\nあなたのところのカラスが",
+		"eng":"And so, your pet raven-",
     },
     "Chapter.さとり.1_2":
     {
         "jpn":"事情は知っています",
+		"eng":"I understand the circumstances.",
     },
     "Chapter.さとり.1_3":
     {
         "jpn":"話が早くて、助かるわね",
+		"eng":"Well that was nice and fast.",
     },
     "Chapter.さとり.1_4":
     {
         "jpn":"しかし、ここは地の底。\n地上の道理は通用しない",
+		"eng":"But this is the underground.\nYour surface rules don't apply here.",
     },
     "Chapter.さとり.1_5":
     {
         "jpn":"勝手はさせないわ",
+		"eng":"I won't let you have your way.",
     },
     "Chapter.さとり.1_6":
     {
         "jpn":"……そう、あなたは少し、\n自分のペットをかわいがりすぎる",
+		"eng":"...Is that so? You spoil your pets too much.",
     },
     "Chapter.さとり.1_7":
     {
         "jpn":"ペットとともに、\n飼い主もその責任を負うが良い！",
+		"eng":"And so the master will share the responsibility with her pets!",
     },
     "Chapter.さとり.1_8":
     {
         "jpn":"（早く帰りたいなあ）",
+		"eng":"(I just wanna go home...)",
     },
     "Chapter.さとり.2_1":
     {
         "jpn":"……仕方がない、\nお空に話を聞きにいきましょう",
+		"eng":"There's no helping it I suppose.\nLet us go speak with Okuu.",
     },
     "Chapter.さとり.2_2":
     {
         "jpn":"そのために、わたしの力が\n要るのでしょう？",
+		"eng":"So you require my assistance for that purpose?",
     },
     "Chapter.さとり.2_3":
     {
         "jpn":"うん",
+		"eng":"That's right.",
     },
     "Chapter.さとり.2_4":
     {
         "jpn":"早く帰りたいですしね？",
+		"eng":"Well, -you- would like to hurry home after all.",
     },
     "Chapter.さとり.2_5":
     {
         "jpn":"ドキリ",
+		"eng":"!!",
     },
     "Chapter.空":
     {
         "jpn":"霊烏路空、灼熱の戦い",
+		"eng":"Blazing Battle with Reiuji Utsuho",
     },
     "Chapter.空.1_1":
     {
         "jpn":"シャクを返していただきます！",
+		"eng":"I've come to take back my shaku!",
     },
     "Chapter.空.1_2":
     {
         "jpn":"うん？何のこと？",
+		"eng":"Huh? What are we talking about?",
     },
     "Chapter.空.1_3":
     {
         "jpn":"シラを切るなら、吐かせるまで",
+		"eng":"If you're going to play dumb, we'll just have to make you spit it out.",
     },
     "Chapter.空.1_4":
     {
         "jpn":"いや、本当に覚えてないんじゃないかなー",
+		"eng":"I think she might actually not remember.",
     },
     "Chapter.空.2_1":
     {
         "jpn":"うーん、何のことだか……",
+		"eng":"Umm...what are we doing again?",
     },
     "Chapter.空.2_2":
     {
         "jpn":"ま、とりあえずシャクは戻ってきましたね",
+		"eng":"Well, at least my shaku has returned to me.",
     },
     "Chapter.空.3_1":
     {
         "jpn":"……",
+		"eng":"....",
     },
     "Chapter.空.3_2":
     {
         "jpn":"さとりさま、難しい顔をして、\nどうかしましたん？",
+		"eng":"Lady Satori, you've got a complicated look on your face. What's wrong?",
     },
     "Chapter.空.3_3":
     {
         "jpn":"一体なぜ、お空がこんなことを\nしたのか、心の中を覗いたのだけど",
+		"eng":"I took a peak into Okuu's heart, to see why she would do this but-",
     },
     "Chapter.空.3_4":
     {
         "jpn":"つかめないのよね",
+		"eng":"I couldn't find anything.",
     },
     "Chapter.空.3_5":
     {
         "jpn":"どうせまた、忘れてるんでしょ",
+		"eng":"I'm sure she's just forgotten again.",
     },
     "Chapter.空.3_6":
     {
         "jpn":"まあ、そんなところでしょうが……",
+		"eng":"Perhaps...",
     },
     "Chapter.空.4_1":
     {
         "jpn":"それで、こいつらの始末はどうすんの？",
+		"eng":"Well now, what do we do with this one?",
     },
     "Chapter.空.4_2":
     {
         "jpn":"そうね……",
+		"eng":"Hmm....",
     },
     "Chapter.空.5_1":
     {
         "jpn":"判決",
+		"eng":"The verdict is...",
     },
     "Chapter.空.5_2":
     {
         "jpn":"手伝わせる",
+		"eng":"She'll help us.",
     },
     "Chapter.空.5_3":
     {
         "jpn":"謹慎",
+		"eng":"Suspension.",
     },
     "Chapter.空.6_1":
     {
         "jpn":"せいぜい、こき使ってやりましょう",
+		"eng":"Let's use her for all she's worth.",
     },
     "Chapter.空.6_2":
     {
         "jpn":"えー、めんどくさいなあ",
+		"eng":"Eh- sounds annoying.",
     },
     "Chapter.空.6_3":
     {
         "jpn":"わかる",
+		"eng":"I know, right?",
     },
     "Chapter.空.6_4":
     {
         "jpn":"わかるな",
+		"eng":"Don't agree with her.",
     },
     "Chapter.空.7_1":
     {
         "jpn":"お空が行くなら、あたいらも一緒しないわけにはいかないね",
+		"eng":"If Okuu is going then we've gotta go too.",
     },
     "Chapter.空.8_1":
     {
         "jpn":"じゃ、留守番しとくね！",
+		"eng":"I'll watch over home then!",
     },
     "Chapter.空.8_2":
     {
         "jpn":"……いいなあ",
+		"eng":"...That sounds nice.",
     },
     "Chapter.地霊殿":
     {
         "jpn":"地霊殿",
+		"eng":"Palace of Earth Spirits",
     },
     "Chapter.芳香":
     {
         "jpn":"死んでも戦え！宮古芳香",
+		"eng":"Fight on through death! Miyako Yoshika",
     },
     "Chapter.芳香.1_1":
     {
         "jpn":"ん？誰か来たのか？",
+		"eng":"Hnn? Is somebody there?",
     },
     "Chapter.芳香.1_2":
     {
         "jpn":"あなたの主人のところに、\n案内してくれないかしら？",
+		"eng":"I don't suppose you could guide us to your master?",
     },
     "Chapter.芳香.1_3":
     {
         "jpn":"主人？……せ……せが……",
+		"eng":"Master?...se....sega...",
     },
     "Chapter.芳香.1_4":
     {
         "jpn":"そうそう、せーが",
+		"eng":"That's right, Seiga",
     },
     "Chapter.芳香.1_5":
     {
         "jpn":"せがたさんしろう？",
+		"eng":"Segata Sanshiro?",
     },
     "Chapter.芳香.1_6":
     {
         "jpn":"そいつは強敵だな",
+		"eng":"A powerful opponent this one is.",
     },
     "Chapter.芳香.1_7":
     {
         "jpn":"埒が明かないわね……",
+		"eng":"We're getting nowhere...",
     },
     "Chapter.芳香.1_8":
     {
         "jpn":"あ、思い出した！",
+		"eng":"Ah, I remember now!",
     },
     "Chapter.芳香.1_9":
     {
         "jpn":"近づくやつがいたら、倒す。\n命令、遂行！",
+		"eng":"If anyone gets too close, I take 'em down.\nHere I gooo!",
     },
     "Chapter.芳香.2_1":
     {
         "jpn":"グオオ、やられた……",
+		"eng":"Gwah, you got meee-",
     },
     "Chapter.布都":
     {
         "jpn":"必死！物部布都",
+		"eng":"Certain Death! Mononobe Futo",
     },
     "Chapter.布都.1_1":
     {
         "jpn":"青娥がどこにいるか、聞いてみましょう",
+		"eng":"We should ask her where Seiga is.",
     },
     "Chapter.布都.1_2":
     {
         "jpn":"ひええ、閻魔が来た！\n直々に我を葬りに来たのか！？",
+		"eng":"Hiee, the Enma doth come to lay me to eternal rest herself!?",
     },
     "Chapter.布都.1_3":
     {
         "jpn":"しかしただでは死なぬ、太子さまのもとに行く前に、一矢報いてやるわ！",
+		"eng":"But I shan't go that easy. Before you reach the Prince , you must go through me!",
     },
     "Chapter.布都.1_4":
     {
         "jpn":"過激ねー",
+		"eng":"She's pretty intense.",
     },
     "Chapter.布都.2_1":
     {
         "jpn":"仕方ない、ここは、逃げの一手！",
+		"eng":"Their is no helping it, a retreat is the best course here!",
     },
     "Chapter.神子":
     {
         "jpn":"豪族たちの挽歌",
+		"eng":"Noble Clan's Elegy",
     },
     "Chapter.神子.1_1":
     {
         "jpn":"太子さまー、大変大変！",
+		"eng":"Prince! Emergency, emergency!",
     },
     "Chapter.神子.1_2":
     {
         "jpn":"んー？",
+		"eng":"Hmm?",
     },
     "Chapter.神子.1_3":
     {
         "jpn":"閻魔が来たのじゃ、ありゃあ、\n間違いなく地獄の裁判長じゃった",
+		"eng":"The Enma hath cometh! \nWithout a doubt she is the judge of Hell-",
     },
     "Chapter.神子.1_4":
     {
         "jpn":"ニャニイ！そいつはコトだ",
+		"eng":"Whaa-! That is news indeed.",
     },
     "Chapter.神子.1_5":
     {
         "jpn":"屠自古！戦闘準備！",
+		"eng":"Tojiko! Battle preparations!",
     },
     "Chapter.神子.1_6":
     {
         "jpn":"やーってやんよ！",
+		"eng":"We'll teach them a thing or two!",
     },
     "Chapter.神子.2_1":
     {
         "jpn":"すでに臨戦態勢か……",
+		"eng":"So they're already set for battle...",
     },
     "Chapter.神子.2_2":
     {
         "jpn":"総力戦になるな",
+		"eng":"This is going to be a full scale war.",
     },
     "Chapter.神子.2_3":
     {
         "jpn":"しかし閻魔よ、\n戦いの前にひとつ聞いておこう",
+		"eng":"But Enma, allow me to state one thing.",
     },
     "Chapter.神子.2_4":
     {
         "jpn":"ウン？",
+		"eng":"Hmm?",
     },
     "Chapter.神子.2_5":
     {
         "jpn":"我が剣には、君らの装備品を砕いてしまう力がある",
+		"eng":"My sword has the power to destroy your equipment.",
     },
     "Chapter.神子.2_6":
     {
         "jpn":"ほーほー？",
+		"eng":"And-?",
     },
     "Chapter.神子.2_7":
     {
         "jpn":"この刃の輝きを恐れぬなら、\nかかってくるがいい！",
+		"eng":"If you do not fear the light of this blade, then have at you!",
     },
     "Chapter.神子.3_1":
     {
         "jpn":"どうする？",
+		"eng":"What should we do?",
     },
     "Chapter.神子.3_2":
     {
         "jpn":"やってやる",
+		"eng":"Fight",
     },
     "Chapter.神子.3_3":
     {
         "jpn":"帰る",
+		"eng":"Leave",
     },
     "Chapter.神子.4_1":
     {
         "jpn":"フハハハハ！だろうな！",
+		"eng":"Hahahaha! As I expected!",
     },
     "Chapter.神子.5_1":
     {
         "jpn":"なに、青娥がシャクを？",
+		"eng":"What's that? Seiga took your shaku?",
     },
     "Chapter.神子.5_2":
     {
         "jpn":"そうか、それで我らに用があったのか",
+		"eng":"I see. That would explain your business with us.",
     },
     "Chapter.神子.5_3":
     {
         "jpn":"いやー。とんだ勘違いだったのう",
+		"eng":"Well that was quite the misunderstanding.",
     },
     "Chapter.神子.5_4":
     {
         "jpn":"物部ェ……",
+		"eng":"Mononobeee...",
     },
     "Chapter.神子.5_5":
     {
         "jpn":"ま、青娥がいそうな場所といえば心当たりがある",
+		"eng":"I suppose I may have an ideal where Seiga would be.",
     },
     "Chapter.神子.5_6":
     {
         "jpn":"ここで閻魔に協力しておくのも、悪くはない手だしね",
+		"eng":"It wouldn't be a bad thing to assist the Enma here.",
     },
     "Chapter.神子.5_7":
     {
         "jpn":"お仲間を売ることになるケド？",
+		"eng":"That would be betraying your ally though, wouldn't it?",
     },
     "Chapter.神子.5_8":
     {
         "jpn":"あれに限っては良いのだよ",
+		"eng":"In these circumstances it's quite alright.",
     },
     "Chapter.神子.5_9":
     {
         "jpn":"うんうん",
+		"eng":"Indeed.",
     },
     "Chapter.神子.5_10":
     {
         "jpn":"……",
+		"eng":"....",
     },
     "Chapter.青娥":
     {
         "jpn":"邪悪！霍青娥",
+		"eng":"The Evil Kaku Seiga",
     },
     "Chapter.青娥.1_1":
     {
         "jpn":"ん？なぜここが分かって……おやまあ、\n太子さまが手引きしたんですの？",
+		"eng":"Hmm? How could you know I'd...ah, Prince has led you here.",
     },
     "Chapter.青娥.1_2":
     {
         "jpn":"ひどいですわ",
+		"eng":"How could you?",
     },
     "Chapter.青娥.1_3":
     {
         "jpn":"言わない言わない、\n今回は青娥のほうが分が悪い",
+		"eng":"I won't hear it. This was your own doing Seiga.",
     },
     "Chapter.青娥.1_4":
     {
         "jpn":"観念することですね",
+		"eng":"You should contemplate on it.",
     },
     "Chapter.青娥.1_5":
     {
         "jpn":"仕方がない",
+		"eng":"I see I have no choice.",
     },
     "Chapter.青娥.1_6":
     {
         "jpn":"こんなこともあろうかと、芳香ちゃんを直しておいて正解だったわ",
+		"eng":"I thought this might happen, and I see I was right to fix up Yoshika.",
     },
     "Chapter.青娥.1_7":
     {
         "jpn":"パワーアップ！",
+		"eng":"I'm powered up!",
     },
     "Chapter.青娥.1_8":
     {
         "jpn":"げえっ、お前は倒したはずの！",
+		"eng":"But we already defeated you!",
     },
     "Chapter.青娥.1_9":
     {
         "jpn":"わたし、物持ちが良いのが、\nちょっとした自慢なの",
+		"eng":"I can be pretty resourceful.\n I'm kinda proud of it.",
     },
     "Chapter.青娥.1_10":
     {
         "jpn":"いけっ！芳香ちゃん！",
+		"eng":"Get 'em, Yoshika!",
     },
     "Chapter.青娥.2_1":
     {
         "jpn":"負けちゃいましたね。仕方がないので、\nシャクはお返しいたします",
+		"eng":"Well I've lost. Suppose I've no choice but to give it back.",
     },
     "Chapter.青娥.3_1":
     {
         "jpn":"さて、青娥の始末はどうすんの？",
+		"eng":"Now what to do with Seiga-",
     },
     "Chapter.青娥.3_2":
     {
         "jpn":"そうね……",
+		"eng":"Hmm...",
     },
     "Chapter.青娥.3_3":
     {
         "jpn":"ひどいことをしないでくれたら、\nいろいろサービスするわよ？",
+		"eng":"If you aren't mean to me, I could -help- you out?",
     },
     "Chapter.青娥.4_1":
     {
         "jpn":"どうする？",
+		"eng":"How about it?",
     },
     "Chapter.青娥.4_2":
     {
         "jpn":"サービスしてもらう",
+		"eng":"Accept her -help-",
     },
     "Chapter.青娥.4_3":
     {
         "jpn":"情け無用！",
+		"eng":"No mercy!",
     },
     "Chapter.青娥.5_1":
     {
         "jpn":"死んだら、綺麗なキョンシーに\nしてあげる",
+		"eng":"If you die I'll make you into a beautiful jiangshi.",
     },
     "Chapter.青娥.5_2":
     {
         "jpn":"こりゃあ、どうあっても\n死ねなくなったわね……",
+		"eng":"Well, dying certainly isn't in option now...",
     },
     "Chapter.青娥.5_3":
     {
         "jpn":"おっとろしいの！",
+		"eng":"Now that's a scary thought.",
     },
     "Chapter.青娥.6_1":
     {
         "jpn":"よよよ、ひどいですわ。",
+		"eng":"How mean-",
     },
     "Chapter.青娥.6_2":
     {
         "jpn":"実家に、帰らせていただきます",
+		"eng":"Well, I'll just be going home then.",
     },
     "Chapter.青娥.6_3":
     {
         "jpn":"あっ！逃げるな！",
+		"eng":"Ah, don't run away!",
     },
     "Chapter.青娥.6_4":
     {
         "jpn":"それでは太子さま、ごきげんよう",
+		"eng":"Until next time, Prince.",
     },
     "Chapter.青娥.6_5":
     {
         "jpn":"うん、達者でな",
+		"eng":"Ah, stay well.",
     },
     "Chapter.青娥.6_6":
     {
         "jpn":"なんちゅう仙人なのかしら",
+		"eng":"So that's a hermit for you, huh?",
     },
     "Chapter.青娥.6_7":
     {
         "jpn":"相手が悪かったと、諦めるしかないわね",
+		"eng":"She got us this time, we've got to admit that.",
     },
     "Chapter.神霊廟":
     {
         "jpn":"神霊廟",
+		"eng":"Divine Spirit Mausoleum",
     },
     "Chapter.ミスティア":
     {
         "jpn":"ローレライ哀歌",
+		"eng":"Lorelei's elegy",
     },
     "Chapter.ミスティア.1_1":
     {
         "jpn":"らん　ららら　らららー",
+		"eng":"la lala la~",
     },
     "Chapter.ミスティア.1_2":
     {
         "jpn":"夜の墓場で、騒がしいですね",
+		"eng":"Pretty loud for a graveyard at night.",
     },
     "Chapter.ミスティア.1_3":
     {
         "jpn":"〆ましょう",
+		"eng":"Let's put an end to it.",
     },
     "Chapter.ミスティア.2_1":
     {
         "jpn":"あんたなんかに、捕まるもんですか",
+		"eng":"As if I'd be caught by someone like you!",
     },
     "Chapter.ミスティア.2_2":
     {
         "jpn":"ぐあ、前が見えない！",
+		"eng":"Gwah, I can't see anything!",
     },
     "Chapter.ミスティア.2_3":
     {
         "jpn":"また逃げられてしまう！",
+		"eng":"She's going to escape again!",
     },
     "Chapter.ミスティア.2_4":
     {
         "jpn":"ざまあカンカンね！",
+		"eng":"Serves you right!",
     },
     "Chapter.ミスティア.2_5":
     {
         "jpn":"……なーんちゃって",
+		"eng":"....Just kidding.",
     },
     "Chapter.ミスティア.2_6":
     {
         "jpn":"へ？　こ、これは",
+		"eng":"Huh? What is this?",
     },
     "Chapter.ミスティア.2_7":
     {
         "jpn":"動けない……",
+		"eng":"I can't move...",
     },
     "Chapter.ミスティア.2_8":
     {
         "jpn":"トリモチを仕掛けておいたのよ",
+		"eng":"We set up some birdlime.",
     },
     "Chapter.ミスティア.2_9":
     {
         "jpn":"ひええ",
+		"eng":"Oh no!",
     },
     "Chapter.ミスティア.2_10":
     {
         "jpn":"成敗！",
+		"eng":"Gotcha!",
     },
     "Chapter.ミスティア.3_1":
     {
         "jpn":"あんたなんかに、捕まるもんですか",
+		"eng":"As if I'd be caught by someone like you!",
     },
     "Chapter.ミスティア.3_2":
     {
         "jpn":"ぐあ、前が見えない！",
+		"eng":"Gwah, I can't see anything!",
     },
     "Chapter.ミスティア.4_1":
     {
         "jpn":"逃げられましたか……",
+		"eng":"She got away...",
     },
     "Chapter.星":
     {
         "jpn":"寅丸の受難",
+		"eng":"Toramaru in Trouble",
     },
     "Chapter.星.1_1":
     {
         "jpn":"うーん、ここにもない。\nいったいどこで落としたのか……",
+		"eng":"Hngh, It's not here either...\nJust where did I drop it....",
     },
     "Chapter.星.1_2":
     {
         "jpn":"どう思う？",
+		"eng":"So what do you think?",
     },
     "Chapter.星.1_3":
     {
         "jpn":"どう、って……",
+		"eng":"What do I think...about what exactly?",
     },
     "Chapter.星.1_4":
     {
         "jpn":"あれ、タヌキが化けてるのかもしれない",
+		"eng":"She could be a tanuki in disguise or something.",
     },
     "Chapter.星.1_5":
     {
         "jpn":"見たところ、変な尻尾とかはありませんが",
+		"eng":"I don't see anything like a strang tail from here.",
     },
     "Chapter.星.1_6":
     {
         "jpn":"でも、本物なら宝塔を持っているはずよ",
+		"eng":"But I mean the real one would have her pagoda.",
     },
     "Chapter.星.1_7":
     {
         "jpn":"確かに、そんな大事なものを\nなくすはずが……",
+		"eng":"Maybe you're right... Losing something that valuable is unthinkable",
     },
     "Chapter.星.1_8":
     {
         "jpn":"……",
+		"eng":".....",
     },
     "Chapter.星.1_9":
     {
         "jpn":"ま！とりあえず、確かめてみましょ！",
+		"eng":"Well, there's one way to find out!",
     },
     "Chapter.星.1_10":
     {
         "jpn":"アタック！",
+		"eng":"Attack!",
     },
     "Chapter.星.2_1":
     {
         "jpn":"くっ、宝塔さえあれば……",
+		"eng":"If I'd only had the pagoda...",
     },
     "Chapter.星.2_2":
     {
         "jpn":"妖怪違いだったわね",
+		"eng":"Wrong youkai after all.",
     },
     "Chapter.星.2_3":
     {
         "jpn":"悪びれないんだなあ",
+		"eng":"You don't even feel bad, huh.",
     },
     "Chapter.星.3_1":
     {
         "jpn":"あやつら、疑心暗鬼になっておるのう",
+		"eng":"Well aren't they a suspicious lot.",
     },
     "Chapter.星.3_2":
     {
         "jpn":"どれ、ひとつ仕掛けてやるか",
+		"eng":"Let's see how they like one of these.",
     },
     "Chapter.星.4_1":
     {
         "jpn":"へ？",
+		"eng":"Hmm?",
     },
     "Chapter.白蓮":
     {
         "jpn":"偽聖白蓮あらわる！",
+		"eng":"Hijiri Byakuren's faker appears!",
     },
     "Chapter.白蓮.1_1":
     {
         "jpn":"♪",
+		"eng":"♪",
     },
     "Chapter.白蓮.1_2":
     {
         "jpn":"あれはどうかしら？",
+		"eng":"How about that one?",
     },
     "Chapter.白蓮.1_3":
     {
         "jpn":"あ！頭に葉っぱが乗っている！\n間違いない、ビンゴですよありゃあ！",
+		"eng":"Ah, she's got a leaf on her head!\nNo doubt about it, that's a fake!",
     },
     "Chapter.白蓮.1_4":
     {
         "jpn":"ええっ、そんなバカな",
+		"eng":"But it couldn't possibly be-",
     },
     "Chapter.白蓮.1_5":
     {
         "jpn":"……でも、確かに怪しいわ",
+		"eng":"...and yet, it is strange.",
     },
     "Chapter.白蓮.1_6":
     {
         "jpn":"移動しますよ！追いかけましょう",
+		"eng":"She's moving! Let's follow her.",
     },
     "Chapter.白蓮.2_1":
     {
         "jpn":"くっ、見失った",
+		"eng":"Mhnn, we lost her.",
     },
     "Chapter.白蓮.2_2":
     {
         "jpn":"あら、どなたかお客さんかしら？",
+		"eng":"Ah, would you happen to be visitors?",
     },
     "Chapter.白蓮.2_3":
     {
         "jpn":"出たあっ！",
+		"eng":"There she is!",
     },
     "Chapter.白蓮.2_4":
     {
         "jpn":"うろたえない！",
+		"eng":"We can't let her fool us!",
     },
     "Chapter.白蓮.2_5":
     {
         "jpn":"隙を見て葉っぱを上手く隠した\nようですが、もう遅い！覚悟！",
+		"eng":"I see you've hidden that leaf of yours, but it's too late! Prepare yourself!",
     },
     "Chapter.白蓮.2_6":
     {
         "jpn":"？",
+		"eng":"?",
     },
     "Chapter.白蓮.3_1":
     {
         "jpn":"一体、何がなにやら",
+		"eng":"So what exactly is going on here?",
     },
     "Chapter.白蓮.3_2":
     {
         "jpn":"そんな、本物だったなんて！？",
+		"eng":"You mean she was the real deal!?",
     },
     "Chapter.白蓮.3_3":
     {
         "jpn":"うひょひょ、まさかこんなに綺麗に\nひっかかるとは",
+		"eng":"Ohoho, I never wouldn't expected it to work so perfectly.",
     },
     "Chapter.白蓮.3_4":
     {
         "jpn":"傑作じゃのう",
+		"eng":"A true work of art.",
     },
     "Chapter.白蓮.3_5":
     {
         "jpn":"何！",
+		"eng":"What!",
     },
     "Chapter.白蓮.3_6":
     {
         "jpn":"すり替わっておいたんじゃよ",
+		"eng":"I just did a little place swapping, that's all.",
     },
     "Chapter.白蓮.3_7":
     {
         "jpn":"怪しいとは、思ってたわ",
+		"eng":"I just knew something was off.",
     },
     "Chapter.白蓮.3_8":
     {
         "jpn":"良いものを見せてもらったし、次は直々に相手してやるわい。待っておるぞ",
+		"eng":"Well I got to enjoy a show, so I suppose I can take you on myself next.",
     },
     "Chapter.マミゾウ":
     {
         "jpn":"激戦、二ッ岩マミゾウ",
+		"eng":"Intense Battle with Futatsuiwa Mamizou",
     },
     "Chapter.マミゾウ.1_1":
     {
         "jpn":"お、来た来た。待ちくたびれたわ",
+		"eng":"Oh, you're finally here. I was getting tired of waiting.",
     },
     "Chapter.マミゾウ.1_2":
     {
         "jpn":"日が暮れるかと思ったぞい",
+		"eng":"I even thought the sun might set beforehand.",
     },
     "Chapter.マミゾウ.1_3":
     {
         "jpn":"それは失礼、それじゃ、\nさっさと終わらせてしまいますよ！",
+		"eng":"My apologies. I'll make sure to wrap this up quick then!",
     },
     "Chapter.マミゾウ.1_4":
     {
         "jpn":"言うのう。ワシとしては、\nなるべくもたせて欲しいんじゃがな？",
+		"eng":"A big talker are we? I'd rather like to enjoy my time with this but-",
     },
     "Chapter.マミゾウ.2_1":
     {
         "jpn":"ま、とりあえずシャクは戻ってきましたね",
+		"eng":"Well, at least my shaku has returned to me.",
     },
     "Chapter.マミゾウ.2_2":
     {
         "jpn":"偽物かもしれんがな？",
+		"eng":"Who knows, it could be a fake.",
     },
     "Chapter.マミゾウ.2_3":
     {
         "jpn":"本物です！",
+		"eng":"It is very real!",
     },
     "Chapter.マミゾウ.3_1":
     {
         "jpn":"それで、こいつの始末はどうすんの？",
+		"eng":"So now what do we do with this one?",
     },
     "Chapter.マミゾウ.3_2":
     {
         "jpn":"そうね……",
+		"eng":"Well now...",
     },
     "Chapter.マミゾウ.4_1":
     {
         "jpn":"どうする？",
+		"eng":"What do we do?",
     },
     "Chapter.マミゾウ.4_2":
     {
         "jpn":"手伝わせる",
+		"eng":"Make her help",
     },
     "Chapter.マミゾウ.4_3":
     {
         "jpn":"大人しくさせる",
+		"eng":"Leave her behind",
     },
     "Chapter.マミゾウ.5_1":
     {
         "jpn":"年寄りをこきつかうとな。\nいたわってほしいもんじゃのう",
+		"eng":"Forcing hard labor on your elders is it?\nShould take better care of your seniors.",
     },
     "Chapter.マミゾウ.5_2":
     {
         "jpn":"妖怪に年寄りも何もありますか！",
+		"eng":"Do youkais even have seniors?!",
     },
     "Chapter.マミゾウ.6_1":
     {
         "jpn":"仕方がない、一回休みと行くか",
+		"eng":"Fine then. I suppose it's breaktime for me.",
     },
     "Chapter.マミゾウ.6_2":
     {
         "jpn":"お手並み拝見、といったところじゃな",
+		"eng":"Suppose I'll just enjoy the show for now.",
     },
     "Chapter.白蓮2":
     {
         "jpn":"逆襲の白蓮",
+		"eng":"Byakuren's Counterattack",
     },
     "Chapter.白蓮2.1_1":
     {
         "jpn":"以前は不覚をとりましたが、\n今度は万全の態勢でやらせていただきます",
+		"eng":"You caught me off guard before, but this time I am fully prepared.",
     },
     "Chapter.白蓮2.1_2":
     {
         "jpn":"宝塔も無事、見つかりましたからね",
+		"eng":"And I've found the Pagoda, safe and sound.",
     },
     "Chapter.白蓮2.1_3":
     {
         "jpn":"りべんじ、というやつです\nいざ、南無三！",
+		"eng":"This is what they call -revenge-.\nNamusan!",
     },
     "Chapter.白蓮2.2_1":
     {
         "jpn":"ふー、わたしたちもまだまだ\n未熟なようです……",
+		"eng":"Hmm, we still have much to learn it seems...",
     },
     "Chapter.白蓮2.2_2":
     {
         "jpn":"この事件、修行の一環として、\nお手伝いしますね",
+		"eng":"We shall assist you in this incident, as a part of our training.",
     },
     "Chapter.白蓮2.2_3":
     {
         "jpn":"いやー、なんだか悪いっすね映姫さま",
+		"eng":"Lady Eiki, I kinda feel bad for them.",
     },
     "Chapter.白蓮2.2_4":
     {
         "jpn":"というかこっちがほぼ完璧に悪いんですけど",
+		"eng":"I mean, didn't all of this start because of us?",
     },
     "Chapter.白蓮2.2_5":
     {
         "jpn":"小町……まあ、そこは……\nそのうちこっそり埋め合わせましょう",
+		"eng":"Komachi, you're not...wrong.\nWe'll...make it up to them. Eventually.",
     },
     "Chapter.白蓮2.3_1":
     {
         "jpn":"あれ？",
+		"eng":"Huh?",
     },
     "Chapter.白蓮2.3_2":
     {
         "jpn":"……宝塔が、またなくなってしまった",
+		"eng":"I...appear to have lost the Pagoda.",
     },
     "Chapter.幽香":
     {
         "jpn":"風見幽香との一騎打ち",
+		"eng":"Duel with Kazami Yuuka",
     },
     "Chapter.幽香.1_1":
     {
         "jpn":"やるわね、なかなか、良い運動になったわ",
+		"eng":"You're pretty good.\nThat was some nice exercise.",
     },
     "Chapter.幽香.1_2":
     {
         "jpn":"とんだ寄り道だわ",
+		"eng":"Talk about getting sidetracked.",
     },
     "Chapter.幽香.1_3":
     {
         "jpn":"一緒に行けば、もっと暴れられそうね？",
+		"eng":"If I go with you, would things be even more interesting?",
     },
     "Chapter.幽香.1_4":
     {
         "jpn":"げ",
+		"eng":"Geh-",
     },
     "Chapter.幽香.2_1":
     {
         "jpn":"来たわね",
+		"eng":"You've come.",
     },
     "Chapter.幽香.2_2":
     {
         "jpn":"お待たせしたかしら？",
+		"eng":"Did I keep you waiting?",
     },
     "Chapter.幽香.2_3":
     {
         "jpn":"尻尾を巻いて、逃げたかと思ったわ",
+		"eng":"I thought you went running away with your tail between your legs.",
     },
     "Chapter.幽香.2_4":
     {
         "jpn":"あなたと違って忙しいんですよ",
+		"eng":"Well unlike you, I'm very busy.",
     },
     "Chapter.幽香.2_5":
     {
         "jpn":"それじゃ、さっさと終わらせて\nあげたほうがよさそうね！",
+		"eng":"Well then I suppose for your sake I should end this quickly!",
     },
     "Chapter.魔理沙2":
     {
         "jpn":"魔理沙、ふたたび",
+		"eng":"Marisa, once more",
     },
     "Chapter.魔理沙2.1_1":
     {
         "jpn":"お、どうやら無事、最後のシャクを\n取り返したようだな",
+		"eng":"Oh, looks like you finally retrieved the last piece of your shaku.",
     },
     "Chapter.魔理沙2.1_2":
     {
         "jpn":"しくじったんじゃないかと、心配してたぜ",
+		"eng":"Was kinda worried you didn't have it in ya.",
     },
     "Chapter.魔理沙2.1_3":
     {
         "jpn":"要らぬ心配でしたね",
+		"eng":"An unnecessary worry.",
     },
     "Chapter.魔理沙2.1_4":
     {
         "jpn":"じゃあ早速、シャクを賭けて勝負だ。\nもちろん勝つのはわたしだがな",
+		"eng":"And now, a match with the shaku on the line. One that I win.",
     },
     "Chapter.魔理沙2.1_5":
     {
         "jpn":"そして閻魔のシャクの秘密を\n解き明かし、その力を手に入れる！",
+		"eng":"And then I can finally reveal the secret of the shaku, and obtain it's power!",
     },
     "Chapter.魔理沙2.1_6":
     {
         "jpn":"だいぶ、悪役が板についてるわねー",
+		"eng":"You've really gotten into this whole villain thing, huh-",
     },
     "Chapter.魔理沙2.1_7":
     {
         "jpn":"……そう、あなたは少し、欲深すぎる",
+		"eng":"...You're a bit, too greedy.",
     },
     "Chapter.魔理沙2.1_8":
     {
         "jpn":"その好奇心が、自らの命を縮めると知れ！",
+		"eng":"That curiosity will cut your life short!",
     },
     "Chapter.魔理沙2.2_1":
     {
         "jpn":"なんだと……",
+		"eng":"I...lost.",
     },
     "Chapter.魔理沙2.2_2":
     {
         "jpn":"魔理沙、哀れな",
+		"eng":"Marisa, how pitiful.",
     },
     "Chapter.魔理沙2.2_3":
     {
         "jpn":"ここまでして負けるのかわたしは。\nくそ、一体、シャクの秘密ってなんなんだ",
+		"eng":"I did all this just to lose?\nDarn it, just what is the secret behind it.",
     },
     "Chapter.魔理沙2.3_1":
     {
         "jpn":"それはわたしが説明しよう",
+		"eng":"Allow me to explain.",
     },
     "Chapter.魔理沙2.3_2":
     {
         "jpn":"あっ、シャクが！",
+		"eng":"Ah, the shaku!",
     },
     "Chapter.魔理沙2.3_3":
     {
         "jpn":"はい、ひとまずごくろーさん",
+		"eng":"Thanks for all your hard work up until now.",
     },
     "Chapter.魔理沙2.3_4":
     {
         "jpn":"この閻魔のシャクを、萃めたのはわたしさ",
+		"eng":"It was actually I who gathered the Enma's shaku.",
     },
     "Chapter.魔理沙2.3_5":
     {
         "jpn":"その結果、こうして無事、手に入れることができた",
+		"eng":"And as a result, here it lies in my hand.",
     },
     "Chapter.魔理沙2.3_6":
     {
         "jpn":"能力を使ったのね",
+		"eng":"You used your ability, huh.",
     },
     "Chapter.魔理沙2.3_7":
     {
         "jpn":"いったい、何のために",
+		"eng":"But for what purpose?",
     },
     "Chapter.魔理沙2.3_8":
     {
         "jpn":"うむ、閻魔のシャクは……",
+		"eng":"Well you see, the Enma's shaku...",
     },
     "Chapter.魔理沙2.3_9":
     {
         "jpn":"酒のつまみになるのだ",
+		"eng":"Is going to be a snack with my sake.",
     },
     "Chapter.魔理沙2.3_10":
     {
         "jpn":"……",
+		"eng":"....",
     },
     "Chapter.魔理沙2.3_11":
     {
         "jpn":"なん……だと……",
+		"eng":"What....was that?",
     },
     "Chapter.魔理沙2.3_12":
     {
         "jpn":"そんな、メンマじゃあるまいし",
+		"eng":"But it's not like it's menma or something.",
     },
     "Chapter.魔理沙2.3_13":
     {
         "jpn":"わたしも眉唾だと思うんだけど、\n試してみたくなってさー",
+		"eng":"Well you never know... And there's only one way to find out, right?",
     },
     "Chapter.魔理沙2.3_14":
     {
         "jpn":"そういうわけで、一度バラバラになって\nまた萃まるようにした。この能力で！",
+		"eng":"And so I broke it into pieces, and gathered it again with my ability!",
     },
     "Chapter.魔理沙2.3_15":
     {
         "jpn":"そんなことのために！？",
+		"eng":"Everything just for that!?",
     },
     "Chapter.魔理沙2.3_16":
     {
         "jpn":"くれって言ってもくれないじゃん",
+		"eng":"I mean if I'd asked you wouldn't have given it to me.",
     },
     "Chapter.魔理沙2.3_17":
     {
         "jpn":"そういう問題では……",
+		"eng":"That is not the issue here.",
     },
     "Chapter.魔理沙2.3_18":
     {
         "jpn":"ま、一緒に飲むなら、\n分けてあげなくもないが",
+		"eng":"Well if you're willing to share a drink, I might be willing to share with you.",
     },
     "Chapter.魔理沙2.3_19":
     {
         "jpn":"まさか！",
+		"eng":"As if!",
     },
     "Chapter.魔理沙2.3_20":
     {
         "jpn":"取り返してみる？",
+		"eng":"You wanna try taking it back?",
     },
     "Chapter.魔理沙2.3_21":
     {
         "jpn":"今回はちょっとラクしすぎたから、\n最後にひと暴れ、してやろうかな！",
+		"eng":"It's been pretty easy up until now. Guess I could put in some work.",
     },
     "Chapter.萃香":
     {
         "jpn":"黒幕！伊吹萃香",
+		"eng":"The culprit, Ibuki Suika!",
     },
     "Chapter.萃香.1_1":
     {
         "jpn":"へへへ、暴れた暴れた。\n今日はこれまで……",
+		"eng":"Hehe, that was a good workout.\n Guess that's enough for today.",
     },
     "Chapter.萃香.1_2":
     {
         "jpn":"ふー、これでやっとシャクが戻ってき……うっ？",
+		"eng":"And now I finally have my shaku ba-",
     },
     "Chapter.萃香.1_3":
     {
         "jpn":"映姫さま、そのシャク、酒臭いですよ",
+		"eng":"Lady Eiki, that shaku reeks of sake.",
     },
     "Chapter.萃香.1_4":
     {
         "jpn":"……洗えば使えるはずです……",
+		"eng":"It should be usuable again after a washing...",
     },
     "Chapter.萃香.2_1":
     {
         "jpn":"良い月だ！",
+		"eng":"There's a nice moon out tonight!",
     },
     "Chapter.萃香.2_2":
     {
         "jpn":"しかも今夜は珍しい肴がある、\n喧嘩相手もいる",
+		"eng":"And to top it off, I've got some opponents and a rare side dish.",
     },
     "Chapter.萃香.2_3":
     {
         "jpn":"暴れるぞ！かかってこーい！！",
+		"eng":"I'm going all out! Bring your best!!",
     },
     "Chapter.こいし":
     {
         "jpn":"エンディング",
+		"eng":"Ending",
     },
     "Chapter.こいし.1_1":
     {
         "jpn":"なんとか勝てたか……",
+		"eng":"We managed to win somehow...",
     },
     "Chapter.こいし.1_2":
     {
         "jpn":"これでようやく一見落着ですね……",
+		"eng":"Everything is finally settled now.",
     },
     "Chapter.こいし.1_3":
     {
         "jpn":"それにしても、シャクを酒のつまみに\nしようなんて",
+		"eng":"Even so, using the shaku as some kinda snack is...",
     },
     "Chapter.こいし.1_4":
     {
         "jpn":"一体どっから出た話なんすかね？",
+		"eng":"Where would she even get that ideal?",
     },
     "Chapter.こいし.1_5":
     {
         "jpn":"んー？それはねー……",
+		"eng":"Hmm? Well that-",
     },
     "Chapter.こいし.1_6":
     {
         "jpn":"あーあ、もうおしまいかあ。\n意外と早かったな",
+		"eng":"Ah, you're done already.\nThat was pretty fast.",
     },
     "Chapter.こいし.1_7":
     {
         "jpn":"……妹妖怪？",
+		"eng":"The little sister youkai?",
     },
     "Chapter.こいし.1_8":
     {
         "jpn":"もっとグッチャグチャのスプラッターが\n見られると思ったのに",
+		"eng":"I thought I'd get to see way more of a bloodbath then that.",
     },
     "Chapter.こいし.1_9":
     {
         "jpn":"まさかお前……",
+		"eng":"You aren't saying that you...",
     },
     "Chapter.こいし.1_10":
     {
         "jpn":"そう！その鬼に入れ知恵したのはわたし",
+		"eng":"Yup! I'm the one that gave that oni the ideal.",
     },
     "Chapter.こいし.1_11":
     {
         "jpn":"閻魔さまのシャクは、\n珍味としてイケるのです",
+		"eng":"The Enma's shaku must be a pretty rare taste after all.",
     },
     "Chapter.こいし.1_12":
     {
         "jpn":"そうなんだよねー",
+		"eng":"Of course it must.",
     },
     "Chapter.こいし.1_13":
     {
         "jpn":"ついでに色々、コトが回るように、裏方でがんばってました",
+		"eng":"While I was at it, I also did a little behind the scenes work to get stuff moving.",
     },
     "Chapter.こいし.1_14":
     {
         "jpn":"縁の下の力持ちってやつ？",
+		"eng":"One of those -mastermind- things I guess?",
     },
     "Chapter.こいし.1_15":
     {
         "jpn":"……しかし、ならなぜ今更、\n表に出てきました？",
+		"eng":"...But then why now, of all times, would you reveal yourself?",
     },
     "Chapter.こいし.1_16":
     {
         "jpn":"もうちょっと、しっちゃかめっちゃかに\nなってくれると思ったんだけど",
+		"eng":"I was just hoping things would've ended in a bigger mess.",
     },
     "Chapter.こいし.1_17":
     {
         "jpn":"残念ながらうまくいかなかったので、",
+		"eng":"Sadly things didn't really turn out how I wanted.",
     },
     "Chapter.こいし.1_18":
     {
         "jpn":"悔しいから、わたし自らの手で、\n状況をかき回しに来たのよ",
+		"eng":"Now I'm upset, so I've come to mix things up myself.",
     },
     "Chapter.こいし.1_19":
     {
         "jpn":"ラスボスっぽいでしょ？",
+		"eng":"Very Last-Boss like, right?",
     },
     "Chapter.こいし.1_20":
     {
         "jpn":"……",
+		"eng":"....",
     },
     "Chapter.こいし.1_21":
     {
         "jpn":"……そう、あなたは少し、\nラスボスらしすぎる",
+		"eng":"You...are a bit too much of a last boss.",
     },
     "Chapter.こいし.1_22":
     {
         "jpn":"自らノコノコ現れたことを後悔しながら、地獄に帰るが良い！",
+		"eng":"Now return to Hell and regret the fact that you showed yourself here!",
     },
     "Chapter.鈴仙":
     {
         "jpn":"潜入！鈴仙・U・イナバ",
+		"eng":"Undercover! Reisen U Inaba",
     },
     "Chapter.鈴仙.1_1":
     {
         "jpn":"おっと失礼、ここ通りますよ",
+		"eng":"Oh, pardon me. I'm just passing through.",
     },
     "Chapter.鈴仙.1_2":
     {
         "jpn":"ん、あ、薬屋さん……？",
+		"eng":"Hmm, that medicine seller...",
     },
     "Chapter.鈴仙.1_3":
     {
         "jpn":"げえっ、あんた、永遠亭の！",
+		"eng":"Geh, you're that one from Eientei!",
     },
     "Chapter.鈴仙.1_4":
     {
         "jpn":"げええっ！巫女！",
+		"eng":"Geh, the miko!",
     },
     "Chapter.鈴仙.1_5":
     {
         "jpn":"里に何の用！？",
+		"eng":"What exactly are you planning in the village?",
     },
     "Chapter.鈴仙.1_6":
     {
         "jpn":"怪しい薬を売りつける気ね",
+		"eng":"Selling those strange drugs no doubt.",
     },
     "Chapter.鈴仙.1_7":
     {
         "jpn":"何も企んでませんってば",
+		"eng":"I'm literally planning nothing I tell you.",
     },
     "Chapter.鈴仙.1_8":
     {
         "jpn":"あ、でも、無敵になれる薬ありますよ\n役に立つんじゃない？",
+		"eng":"Oh, but I do have one that can make you invincible. Sounds pretty handy, huh?",
     },
     "Chapter.鈴仙.1_9":
     {
         "jpn":"どう見たって、怪しい薬じゃないの！",
+		"eng":"That is the literal definition of\n-strange drug-!",
     },
     "Chapter.鈴仙.1_10":
     {
         "jpn":"墓穴！",
+		"eng":"I've been found out!",
     },
     "Chapter.鈴仙.2_1":
     {
         "jpn":"うーん、これじゃ今日は\nもう商売できないわ",
+		"eng":"Well, I can't do business like this today.",
     },
     "Chapter.鈴仙.2_2":
     {
         "jpn":"うちへ帰ることね",
+		"eng":"Might as well just go home then.",
     },
     "Chapter.鈴仙.2_3":
     {
         "jpn":"スグ帰ったら、それはそれで\n仕事を押し付けられるので",
+		"eng":"If I go home too soon, that's just going to lead to more work pushed onto me.",
     },
     "Chapter.鈴仙.2_4":
     {
         "jpn":"しばらく時間をつぶしてから帰ります",
+		"eng":"I'll kill some time first before heading back.",
     },
     "Chapter.鈴仙.2_5":
     {
         "jpn":"ちゃっかりしてんのね",
+		"eng":"You don't sound disappointed at all.",
     },
     "Chapter.鈴仙.3_1":
     {
         "jpn":"……小町は、ああいうこと、してます？",
+		"eng":"...Komachi, is that what you do?",
     },
     "Chapter.鈴仙.3_2":
     {
         "jpn":"ははっ何のことやら",
+		"eng":"Hahaha what are you talking about-",
     },
     "Chapter.永琳":
     {
         "jpn":"師匠が来た！",
+		"eng":"Master has arrived!",
     },
     "Chapter.永琳.1_1":
     {
         "jpn":"ウ・ド・ン・ゲ？",
+		"eng":"U-do-n-ge?",
     },
     "Chapter.永琳.1_2":
     {
         "jpn":"し、ししょう？なぜこんなところに？",
+		"eng":"M-master? What are you doing here?",
     },
     "Chapter.永琳.1_3":
     {
         "jpn":"わたしが出かけてると\n何か困ることでもあるのかしら？",
+		"eng":"Is it a problem for you that I go outside for a bit?",
     },
     "Chapter.永琳.1_4":
     {
         "jpn":"あわわ……",
+		"eng":"Ummmmmm....",
     },
     "Chapter.永琳.1_5":
     {
         "jpn":"帰りが遅いと思ったら油を売ってるなんて",
+		"eng":"To think that your late return was caused by you wasting time like this.",
     },
     "Chapter.永琳.1_6":
     {
         "jpn":"お灸を据えなきゃならないようね？",
+		"eng":"It seems some reprimanding is in order, does it not?",
     },
     "Chapter.永琳.1_7":
     {
         "jpn":"い、いや、こんなところに\n本物の師匠がいるわけがない！",
+		"eng":"Th-here's no way my real Master would be out here!",
     },
     "Chapter.永琳.1_8":
     {
         "jpn":"偽物よ！師匠を騙る不届き者め！",
+		"eng":"You're a fake! A villanous pretender!",
     },
     "Chapter.永琳.2_1":
     {
         "jpn":"腕を上げたわね、ウドンゲ",
+		"eng":"You've improved Udonge.",
     },
     "Chapter.永琳.2_2":
     {
         "jpn":"師匠！",
+		"eng":"Master!",
     },
     "Chapter.永琳.2_3":
     {
         "jpn":"用が済んだら、さっさと帰るわよ",
+		"eng":"When you're done with your business, come home quickly, alright?",
     },
     "Chapter.永琳.2_4":
     {
         "jpn":"は、はい！",
+		"eng":"Y-yes!",
     },
     "Chapter.Boss.1_1":
     {
         "jpn":"ふー、これにて一件落着……",
+		"eng":"Whew, with that done, everything is resolved.",
     },
     "Chapter.Boss.1_2":
     {
         "jpn":"ン？シャクってそんなに\n小さかったっけか？",
+		"eng":"Hmm? Was the shaku always that small?",
     },
     "Chapter.Boss.1_3":
     {
         "jpn":"いえ、これは……シャクの一部分！",
+		"eng":"No...this is only a fragment of the shaku!",
     },
     "Chapter.Boss.1_4":
     {
         "jpn":"分解してパーツごとに持っている\nというわけですね",
+		"eng":"So they must've broken it into pieces that they all have.",
     },
     "Chapter.Boss.1_5":
     {
         "jpn":"ってことは、全部集めなきゃ\nいけないんですか！",
+		"eng":"So then we have to go gather all the pieces!",
     },
     "Chapter.Boss.1_6":
     {
         "jpn":"そりゃ、めんどくさいことになった……",
+		"eng":"Well this just got really annoying...",
     },
     "Chapter.Boss.2_1":
     {
         "jpn":"これで、2つ目ね",
+		"eng":"This makes 2 pieces.",
     },
     "Chapter.Boss.3_1":
     {
         "jpn":"これで、3つ目だな",
+		"eng":"This makes 3 pieces.",
     },
     "Chapter.Boss.4_1":
     {
         "jpn":"これが最後の1つ、と",
+		"eng":"And this should be the last piece.",
     },
     "Chapter.Boss.5_1":
     {
         "jpn":"ええっ、本気ですか？\n手伝ってもらって、ラクしましょうよ",
+		"eng":"Eh, are you serious? We should have them help, make things easy for us.",
     },
     "Chapter.Boss.5_2":
     {
         "jpn":"仲間が増えるチャンスなんですよ？",
+		"eng":"This is a chance for more party members you know?",
     },
     "Chapter.Boss.5_3":
     {
         "jpn":"そういうことをしてると、恨まれますよ。\n後悔しても、知りませんよ？",
+		"eng":"If you keep acting like this, you might come to regret it later, ya know?",
     },
     "Chapter.Boss.6_1":
     {
         "jpn":"これで4人中2人を撃破、と",
+		"eng":"So that's 2 of the 4 defeated.",
     },
     "Chapter.Boss.6_2":
     {
         "jpn":"折り返しね",
+		"eng":"We're in the final strech.",
     },
     "Chapter.Boss.6_3":
     {
         "jpn":"なかなか順調でよろしい",
+		"eng":"Things have been going at a pretty good pace so far.",
     },
     "Chapter.Boss.6_4":
     {
         "jpn":"ところで小町、シャクはちゃんと持ってますか？",
+		"eng":"By the way Komachi, you -are- taking good care of the pieces aren't you?",
     },
     "Chapter.Boss.6_5":
     {
         "jpn":"モチのロンです、ここに",
+		"eng":"Of course. They're all right here.",
     },
     "Chapter.Boss.6_6":
     {
         "jpn":"……",
+		"eng":"....",
     },
     "Chapter.Boss.6_7":
     {
         "jpn":"あれ、おっかしいな",
+		"eng":"That's weird....",
     },
     "Chapter.Boss.6_8":
     {
         "jpn":"ん？",
+		"eng":"Hmm?",
     },
     "Chapter.Boss.6_9":
     {
         "jpn":"さっきまではあったんですよ、\nたぶんその辺に落として",
+		"eng":"They were just here.\nMust be on the ground nearby.",
     },
     "Chapter.Boss.6_10":
     {
         "jpn":"これのこと？すぐそこで拾ったわ",
+		"eng":"You mean these? I picked them up right over there.",
     },
     "Chapter.Boss.6_11":
     {
         "jpn":"そうそうそれそれ……って\nげえっ、風見幽香！",
+		"eng":"Yeah yeah, that's it.\nGeh, Kazami Yuuka!",
     },
     "Chapter.Boss.6_12":
     {
         "jpn":"なんだかよくわからないけど、\n大事なものらしいわね？",
+		"eng":"I'm not sure I quite understand, but these seem quite valuable, yes?",
     },
     "Chapter.Boss.6_13":
     {
         "jpn":"察しのよろしいことで……",
+		"eng":"A wonderful observation, yes.",
     },
     "Chapter.Boss.6_14":
     {
         "jpn":"ともかく、拾っていただいてありがとさん",
+		"eng":"Anyways, thanks for picking this up.",
     },
     "Chapter.Boss.6_15":
     {
         "jpn":"そうねー、返して欲しくば",
+		"eng":"Well then, if you want it back-",
     },
     "Chapter.Boss.6_16":
     {
         "jpn":"ぐぬ",
+		"eng":"Grr-",
     },
     "Chapter.Boss.6_17":
     {
         "jpn":"ここのところ暴れ足りなくて\n体がなまっていることだし",
+		"eng":"I've been bored lately.\nMy body is growing stiff.",
     },
     "Chapter.Boss.6_18":
     {
         "jpn":"そこにいるボスに、一騎打ちで相手をしてもらおうかしら？",
+		"eng":"How about a 1v1 with your boss over there?",
     },
     "Chapter.Boss.6_19":
     {
         "jpn":"やれやれ……とんだヤブヘビね！",
+		"eng":"Well this is trouble we didn't need.",
     },
     "Chapter.Boss.7_1":
     {
         "jpn":"なあ、ちょっと今までに取り返したシャクを見せてくれない？",
+		"eng":"Hey, lemme get a look at the shaku pieces we've collected so far.",
     },
     "Chapter.Boss.7_2":
     {
         "jpn":"ん、いいけど",
+		"eng":"Uhh...sure I guess.",
     },
     "Chapter.Boss.7_3":
     {
         "jpn":"へえ、なるほどなあ",
+		"eng":"Ooo, I see.",
     },
     "Chapter.Boss.7_4":
     {
         "jpn":"なるほどなるほど",
+		"eng":"Very interesting.",
     },
     "Chapter.Boss.7_5":
     {
         "jpn":"なるほどなあ",
+		"eng":"Uh-huh.",
     },
     "Chapter.Boss.7_6":
     {
         "jpn":"魔理沙、あんたまさか……",
+		"eng":"Marisa, you aren't...",
     },
     "Chapter.Boss.7_7":
     {
         "jpn":"フッ、気づいたときにはもう遅い。\nそのまさかだ……こいつは借りていく",
+		"eng":"It's already too late. You're right though...I'll be borrowing these.",
     },
     "Chapter.Boss.7_8":
     {
         "jpn":"裏切るの！？",
+		"eng":"You're betraying us!?",
     },
     "Chapter.Boss.7_9":
     {
         "jpn":"もともとそういう目的だからな！",
+		"eng":"This is always what I was in it for!",
     },
     "Chapter.Boss.7_10":
     {
         "jpn":"あと一つが回収できたらまた会おうぜ。\nどうせ全部揃えないと意味ないんだろ？",
+		"eng":"We'll meet again after you've collected the last piece.",
     },
     "Chapter.Boss.7_11":
     {
         "jpn":"やれやれ……せいぜい無くさないよう、\n気を付けることね",
+		"eng":"Well...at least try not to lose them, okay?",
     },
     "Chapter.Boss.7_12":
     {
         "jpn":"言われるまでもない。\nそれじゃ、失礼するぜ！",
+		"eng":"Ya don't have to tell me that.\nLaters!",
     },
     "Chapter.Boss.8_1":
     {
         "jpn":"い、いやあ、困ったことになりましたねえ",
+		"eng":"Well things sure have become a mess.",
     },
     "Chapter.Boss.8_2":
     {
         "jpn":"魔理沙、泣かす！キャン言わす！",
+		"eng":"We're going to teach Marisa a lesson after this!",
     },
     "Chapter.Boss.9_1":
     {
         "jpn":"魔理沙に会いにいきましょう",
+		"eng":"Let's go meet with Marisa.",
     },
     "Chapter.Boss.9_2":
     {
         "jpn":"決戦です！",
+		"eng":"This battle will decide it all!",
     },
     "Chapter.Ending.1_1":
     {
         "jpn":"「とまあ、これが今回の事件の一部始終」",
+		"eng":"「And so you have the story, start to finish.」",
     },
     "Chapter.Ending.1_2":
     {
         "jpn":"「なんともはや……」",
+		"eng":"「Quite the incident...」",
     },
     "Chapter.Ending.1_3":
     {
         "jpn":"「その黒幕は、その後どうなったんです？」",
+		"eng":"「So what happened to the culprit afterwards?」",
     },
     "Chapter.Ending.1_4":
     {
         "jpn":"「妹妖怪は、きつく縛って吊し上げておきましたが、\n　……何を考えているのやら」",
+		"eng":"「Well I tied her up nice and tight, but...\n  What exactly was she thinking?」",
     },
     "Chapter.Ending.1_5":
     {
         "jpn":"「どうせ反省なんてしないでしょう。\n　あれはきっと地獄行きね」",
+		"eng":"「I'm sure she didn't regret anything she'd done.\n  No hope on that front.」",
     },
     "Chapter.Ending.1_6":
     {
         "jpn":"「災難だったと言うほかありませんね」",
+		"eng":"「I suppose we can only call this is a disaster.」",
     },
     "Chapter.Ending.1_7":
     {
         "jpn":"地底の妖怪たちとの折り合いをつけるのは、\n尋常のことではない",
+		"eng":"These kinds of things aren't unusual with the underground youkai.",
     },
     "Chapter.Ending.1_8":
     {
         "jpn":"この程度のトラブルは覚悟のうえ。\nそれが妖怪の世界というものだ",
+		"eng":"I'm always prepared for this level of trouble. That's just how the youkai world works.",
     },
     "Chapter.Ending.1_9":
     {
         "jpn":"……それはともかく",
+		"eng":"...But besides that.",
     },
     "Chapter.Ending.1_10":
     {
         "jpn":"小町が自分のシャクを、\nたまに妙な目で見ているのだけど……",
+		"eng":"Komachi sometimes looks at my shaku with a strange look in her eyes...",
     },
     "Chapter.Ending.1_11":
     {
         "jpn":"……油断できない。\nわたしの戦いは、もうしばらく続くようだ",
+		"eng":"I can't let my guard down.\nMy battle will continue for a while longer it seems.",
     },
     "Chapter.Ending.1_12":
     {
         "jpn":"\n　　　　　　　　　　　　　　　　　　　　おしまい",
+		"eng":"\n                                    The End",
     },
     "Chapter.ゲームクリア":
     {
         "jpn":"ゲームクリア！",
+		"eng":"Game Cleared!",
     },
     "Chapter.ゲームクリア複数":
     {
         "jpn":"ゲームクリア！ x {count}",
+		"eng":"Game Cleared! x {count}",
     },
 }
